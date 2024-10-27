@@ -27,7 +27,7 @@ let player, obstacles, coins, score;
 let coinCount = 0;
 
 // 修改游戏速
-const gameSpeed = 100; // 速度从200降低到100
+const gameSpeed = 100; // 速度从200降到100
 
 // 在全局变量区域添加
 let totalWords = 0;
@@ -43,7 +43,7 @@ let coinsToWin = 30;
 
 let currentSpeed = 100; // 初始速度
 const minSpeed = 50;    // 最小速度
-const maxSpeed = 200;   // 
+const maxSpeed = 500;   // 最速度从300改为500
 const speedStep = 10;   // 每次按键改变的速度
 
 // 在全局变量区域添加
@@ -95,6 +95,12 @@ let isPaused = false;
 
 // 在全局变量区域添加
 let appearedWordsCount = 0;
+
+// 添加一个全局变量来跟踪是否正在显示恭喜界面
+let isShowingCongrats = false;
+
+// 在全局区域添加振动功能检查
+const canVibrate = window.navigator.vibrate;
 
 function getRandomWord() {
     if (ieltsWords.length === 0) {
@@ -223,7 +229,7 @@ function initGame() {
     updateSpeedDisplay();
     collectedWords = [];
     updateCollectedWordsList();
-    updateBirdShop(); // 添加这一行
+    updateBirdShop(); // 添加一行
     purchasedBirds = ['#FFFF99']; // 重置已买的小鸟列表
     currentBirdColor = '#FFFF99'; // 重置当前小鸟颜色
     setupCopyAllWordsButton();
@@ -266,7 +272,7 @@ function moveObstacles(deltaTime) {
     // 移除离开屏幕的障碍物
     obstacles = obstacles.filter(obstacle => obstacle.x + obstacle.width > 0);
 
-    // 生成新的障碍物
+    // 成障碍物
     const lastObstacle = obstacles[obstacles.length - 1];
     if (!lastObstacle || lastObstacle.x < canvas.width - 600) {
         generateObstacle();
@@ -304,7 +310,7 @@ function checkCollision() {
             return true;
         }
 
-        // 检查与额外圆形的碰撞
+        // 检查与额外圆形撞
         for (let circle of obstacle.circles) {
             const circleCenterX = centerX + circle.x;
             const circleCenterY = centerY + circle.y;
@@ -328,9 +334,15 @@ function checkCoinCollection() {
             player.y < coin.y + coin.height &&
             player.y + player.height > coin.y) {
             coinCount++;
-            updateCoinDisplay(); // 这里会同时更新金币显示和商店
+            updateCoinDisplay();
             updateProgressBar();
             checkGameCompletion();
+            
+            // 添加振动反馈
+            if (canVibrate) {
+                window.navigator.vibrate(50); // 振动50毫秒
+            }
+            
             console.log('Coin collected. New coin count:', coinCount);
             return false;
         }
@@ -418,76 +430,108 @@ function drawObstacles() {
         }
 
         // 绘制单词
-        if (obstacle.word) {
+        if (obstacle.word && obstacle.textOffset.calculated) {
             ctx.fillStyle = 'black';
             
-            // 制文单词
+            // 使用存储的偏移量计算文字位置，并向右偏移
+            const textOffsetX = 40; // 向右偏移的距离
+            const centerX = obstacle.x + obstacle.textOffset.x + textOffsetX; // 添加水平偏移
+            const centerY = obstacle.y + obstacle.textOffset.y;
+            
+            // 计算可用空间
+            const availableWidth = obstacle.width * 0.7;
+            
+            // 绘制英文单词
             let fontSize = 24;
             ctx.font = `bold ${fontSize}px Arial`;
             let englishText = obstacle.word.word;
             let englishMetrics = ctx.measureText(englishText);
             
             // 如果单词太长，缩小字体
-            while (englishMetrics.width > cloudBoundary.width * 0.8 && fontSize > 12) {
-                fontSize -= 2;
+            while (englishMetrics.width > availableWidth && fontSize > 16) {
+                fontSize -= 1;
                 ctx.font = `bold ${fontSize}px Arial`;
                 englishMetrics = ctx.measureText(englishText);
             }
             
-            const englishX = centerX - englishMetrics.width / 2;
-            const englishY = centerY - 5;
-            
-            ctx.fillText(englishText, englishX, englishY);
-            
             // 绘制中文解释
-            fontSize = 16;
-            ctx.font = `${fontSize}px Arial`;
+            const chineseFontSize = Math.min(14, fontSize - 4);
+            ctx.font = `${chineseFontSize}px Arial`;
             let chineseText = obstacle.word.cn;
             let chineseMetrics = ctx.measureText(chineseText);
             
-            // 如果中文解释太长，分行显示
-            if (chineseMetrics.width > cloudBoundary.width * 0.8) {
-                const lines = getLines(ctx, chineseText, cloudBoundary.width * 0.8);
+            // 计算垂直位置
+            const verticalGap = 30;
+            const englishY = centerY - verticalGap/2;
+            const chineseY = centerY + verticalGap/2;
+            
+            // 绘制英文单词（水平居中）
+            ctx.font = `bold ${fontSize}px Arial`;
+            ctx.fillText(englishText, centerX - englishMetrics.width / 2, englishY);
+            
+            // 绘制中文解释（水平居中）
+            ctx.font = `${chineseFontSize}px Arial`;
+            if (chineseMetrics.width > availableWidth) {
+                const lines = getLines(ctx, chineseText, availableWidth);
                 lines.forEach((line, index) => {
                     const lineMetrics = ctx.measureText(line);
-                    const lineX = centerX - lineMetrics.width / 2;
-                    ctx.fillText(line, lineX, centerY + 15 + index * (fontSize + 2));
+                    ctx.fillText(
+                        line,
+                        centerX - lineMetrics.width / 2,
+                        chineseY + index * (chineseFontSize + 5)
+                    );
                 });
             } else {
-                const chineseX = centerX - chineseMetrics.width / 2;
-                ctx.fillText(chineseText, chineseX, centerY + 20);
+                ctx.fillText(
+                    chineseText,
+                    centerX - chineseMetrics.width / 2,
+                    chineseY
+                );
             }
         }
     });
 }
 
 function calculateCloudBoundary(obstacle) {
+    // 如果是生成新障碍物时的调用
+    if (!obstacle.x) {
+        const centerX = obstacle.width / 2;
+        const centerY = obstacle.width / 2;
+        let leftMost = centerX - obstacle.width / 2;
+        let rightMost = centerX + obstacle.width / 2;
+
+        obstacle.circles.forEach(circle => {
+            const circleX = centerX + circle.x;
+            const leftEdge = circleX - circle.radius;
+            const rightEdge = circleX + circle.radius;
+            leftMost = Math.min(leftMost, leftEdge);
+            rightMost = Math.max(rightMost, rightEdge);
+        });
+
+        return {
+            left: leftMost,
+            right: rightMost,
+            center: (leftMost + rightMost) / 2
+        };
+    }
+
+    // 如果是绘制时的调用
     const centerX = obstacle.x + obstacle.width / 2;
-    const centerY = obstacle.y + obstacle.height / 2;
-    let minX = centerX, maxX = centerX, minY = centerY, maxY = centerY;
+    let leftMost = centerX - obstacle.width / 2;
+    let rightMost = centerX + obstacle.width / 2;
 
-    // 考虑主圆形
-    const mainRadius = Math.min(obstacle.width, obstacle.height) * 0.4;
-    minX = Math.min(minX, centerX - mainRadius);
-    maxX = Math.max(maxX, centerX + mainRadius);
-    minY = Math.min(minY, centerY - mainRadius);
-    maxY = Math.max(maxY, centerY + mainRadius);
-
-    // 考虑所有额外的圆形
     obstacle.circles.forEach(circle => {
         const circleX = centerX + circle.x;
-        const circleY = centerY + circle.y;
-        minX = Math.min(minX, circleX - circle.radius);
-        maxX = Math.max(maxX, circleX + circle.radius);
-        minY = Math.min(minY, circleY - circle.radius);
-        maxY = Math.max(maxY, circleY + circle.radius);
+        const leftEdge = circleX - circle.radius;
+        const rightEdge = circleX + circle.radius;
+        leftMost = Math.min(leftMost, leftEdge);
+        rightMost = Math.max(rightMost, rightEdge);
     });
 
     return {
-        x: minX,
-        y: minY,
-        width: maxX - minX,
-        height: maxY - minY
+        left: leftMost,
+        right: rightMost,
+        center: (leftMost + rightMost) / 2
     };
 }
 
@@ -525,10 +569,15 @@ function generateObstacle() {
         const circles = generateCloudCircles(width, height);
 
         let word = getRandomWord();
-        // 确保最近碰撞的单词和上一个碰撞的单词不会立即出现
         while (recentlyCollidedWords.includes(word) || word === lastCollidedWord) {
             word = getRandomWord();
         }
+
+        // 计算云朵的实际边界和文字位置
+        const cloudCenter = {
+            x: canvas.width + width / 2,
+            y: y + height / 2
+        };
 
         newObstacle = {
             x: canvas.width,
@@ -538,7 +587,13 @@ function generateObstacle() {
             speed: currentSpeed,
             word: word,
             circles: circles,
-            hasSpoken: false
+            hasSpoken: false,
+            // 存储固定的文字位置偏移量
+            textOffset: {
+                x: width / 2, // 相对于云朵左边缘的偏移量
+                y: height / 2, // 相对于云朵顶部的偏移量
+                calculated: true
+            }
         };
 
         // 检查是否与现有障碍物重叠
@@ -554,27 +609,23 @@ function generateObstacle() {
     } while (overlap);
 
     obstacles.push(newObstacle);
-
-    // 更新最近碰撞的单词列表
-    if (recentlyCollidedWords.length >= collisionCooldown) {
-        recentlyCollidedWords.shift(); // 移除最旧的单词
-    }
-
-    console.log('Cloud obstacle generated at:', newObstacle.x, newObstacle.y);
     appearedWordsCount++;
     updateWordCount();
+    updateProgressBar();
 }
 
-// 辅助函数：生成云朵的圆形细节
+// 修改 generateCloudCircles 函数以适应不同大小的云朵
 function generateCloudCircles(width, height) {
     const numCircles = 8;
     const circles = [];
+    const baseRadius = width * 0.25; // 从0.15增加到0.25，增加基础半径
+    
     for (let i = 0; i < numCircles; i++) {
         const angle = (i / numCircles) * Math.PI * 2;
         const distance = (0.4 + Math.random() * 0.4) * width / 2;
         const x = Math.cos(angle) * distance;
         const y = Math.sin(angle) * distance * 0.7;
-        const radius = (0.15 + Math.random() * 0.25) * width / 2;
+        const radius = (0.25 + Math.random() * 0.35) * baseRadius; // 增加小圆的大小范围
         circles.push({x, y, radius});
     }
     return circles;
@@ -633,10 +684,37 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function drawCoins() {
-    ctx.fillStyle = 'gold';
     coins.forEach(coin => {
+        const centerX = coin.x + coin.width / 2;
+        const centerY = coin.y + coin.height / 2;
+        const radius = coin.width / 2;
+
+        // 绘制金币外圈（深金色边缘）
         ctx.beginPath();
-        ctx.arc(coin.x + coin.width / 2, coin.y + coin.height / 2, coin.width / 2, 0, Math.PI * 2);
+        ctx.arc(centerX, centerY, radius, 0, Math.PI * 2);
+        ctx.fillStyle = '#FFD700'; // 金色
+        ctx.fill();
+        ctx.strokeStyle = '#DAA520'; // 深金色边缘
+        ctx.lineWidth = 2;
+        ctx.stroke();
+
+        // 绘制内圈（添加光泽效果）
+        ctx.beginPath();
+        ctx.arc(centerX, centerY, radius * 0.8, 0, Math.PI * 2);
+        ctx.fillStyle = '#FFDF00'; // 稍亮的金色
+        ctx.fill();
+
+        // 绘制 "¥" 符号
+        ctx.fillStyle = '#DAA520'; // 深金色文字
+        ctx.font = 'bold ' + Math.floor(radius * 1.2) + 'px Arial';
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText('¥', centerX, centerY);
+
+        // 添加高光效果
+        ctx.beginPath();
+        ctx.arc(centerX - radius * 0.3, centerY - radius * 0.3, radius * 0.2, 0, Math.PI * 2);
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.4)';
         ctx.fill();
     });
 }
@@ -729,7 +807,7 @@ function continueGame() {
     player.y = canvas.height / 2 - player.height / 2;
     player.x = canvas.width / 2 - player.width / 2;
 
-    // 移除有在屏幕上的障碍物
+    // 移除有在屏幕上的碍物
     obstacles = obstacles.filter(obstacle => obstacle.x > canvas.width);
 
     gameStarted = true;
@@ -749,32 +827,43 @@ function checkCircleCollision(player, circleCenterX, circleCenterY, circleRadius
     return distance <= circleRadius + Math.min(player.width, player.height) / 2;
 }
 
-// 添加更新进度条的函数
+// 修改 updateProgressBar 函数
 function updateProgressBar() {
-    const percentage = (coinCount % coinsToWin) / coinsToWin * 100;
+    // 使用 appearedWordsCount 代替 coinCount
+    const percentage = (appearedWordsCount % 30) / 30 * 100;
     document.getElementById('progress-bar').style.width = `${percentage}%`;
 }
 
-// 修改 checkGameCompletion 函数
+// 修改 checkGameCompletion 数，确保在所有30的倍数处都触发恭喜页面
 function checkGameCompletion() {
-    if (coinCount > 0 && coinCount % coinsToWin === 0) {
-        showCongratulations();
+    // 检查是否刚好达到30的倍数
+    if (appearedWordsCount > 0 && appearedWordsCount % 30 === 0) {
+        // 确这个数字之前没有被恭喜过
+        if (!isShowingCongrats) {
+            showCongratulations();
+        }
+    } else {
+        // 如果不是30的倍数，重置标志
+        isShowingCongrats = false;
     }
 }
 
-// 修改 showCongratulations 函数
+// 修改 showCongratulations 函数，显示当前达到的里程碑
 function showCongratulations() {
+    isShowingCongrats = true;
     gameStarted = false;
     cancelAnimationFrame(gameLoopId);
 
     const congratsDiv = document.createElement('div');
     congratsDiv.id = 'congratsScreen';
 
-    const milestone = Math.floor(coinCount / coinsToWin) * coinsToWin;
+    const milestone = Math.floor(appearedWordsCount / 30) * 30;
+    const milestoneNumber = milestone / 30; // 计算第几个30
     
     congratsDiv.innerHTML = `
         <h2 style="color: #FFD700; font-size: 48px; margin-bottom: 20px;">宝宝你真棒</h2>
-        <p style="color: #FFFFFF; font-size: 24px; margin-bottom: 30px;">你已经收集了${milestone}个金币</p>
+        <p style="color: #FFFFFF; font-size: 24px; margin-bottom: 30px;">你已经学习了${milestone}个单词</p>
+        <p style="color: #FFFFFF; font-size: 18px; margin-bottom: 30px;">这是你的第${milestoneNumber}个30词里程碑</p>
         <button id="continueButton" style="font-size: 20px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">继续游戏</button>
         <p class="space-hint">按空格键继续</p>
     `;
@@ -790,7 +879,14 @@ function showCongratulations() {
     // 创建彩带
     createConfetti();
 
-    document.getElementById('continueButton').addEventListener('click', continueCongrats);
+    document.getElementById('continueButton').addEventListener('click', () => {
+        document.body.removeChild(congratsDiv);
+        congratsAudio.pause();
+        congratsAudio.currentTime = 0;
+        stopConfetti();
+        isShowingCongrats = false; // 重置标志
+        continueGameAfterCongrats();
+    });
     
     // 添加空格键事件监听器
     document.addEventListener('keydown', handleCongratsSpaceKeyPress);
@@ -868,10 +964,11 @@ function continueGameAfterCongrats() {
     // 重置玩家位置
     player.y = canvas.height / 2 - player.height / 2;
 
-    // 继续游戏
+    // 继游戏
     gameStarted = true;
     lastTime = 0;
     gameLoopId = requestAnimationFrame(gameLoop);
+    isShowingCongrats = false; // 确保重置标志
 }
 
 // 添加新函数来获取随机单词
@@ -910,7 +1007,7 @@ function updateAllSpeeds() {
     coins.forEach(coin => coin.speed = currentSpeed);
 }
 
-// 修改键盘事件监听器
+// 修改键盘事件监器
 document.addEventListener('keydown', e => {
     keys[e.code] = true;
     if (e.code === 'ArrowLeft' || e.code === 'ArrowRight') {
@@ -994,7 +1091,7 @@ function updateBirdShop() {
         li.appendChild(priceSpan);
 
         if (birdColor.color === currentBirdColor) {
-            li.style.border = '2px solid blue';
+            li.style.border = '2px solid #4a90e2'; // 修改这里，使用与标题相同的蓝色
             li.style.cursor = 'default';
         } else if (!purchasedBirds.includes(birdColor.color) && coinCount < birdColor.price) {
             li.style.position = 'relative';
@@ -1135,7 +1232,7 @@ function copyAllWords() {
     });
 }
 
-// ��加新函数来更新单词计数
+// 加新函数来更新单词计数
 function updateWordCount() {
     document.getElementById('wordCount').textContent = `WORDS: ${appearedWordsCount}`;
 }
