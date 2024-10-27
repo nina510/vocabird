@@ -1,0 +1,4838 @@
+[
+    {
+        "word": "abandon",
+        "cn": "v.放弃, 遗弃n.放任, 狂热"
+    },
+    {
+        "word": "abnormal",
+        "cn": "adj.反常的, 变态的"
+    },
+    {
+        "word": "abolish",
+        "cn": "v.废止, 废除(法律、制度、习俗等)"
+    },
+    {
+        "word": "abrupt",
+        "cn": "adj.突然的, 陡峭的, 生硬的"
+    },
+    {
+        "word": "absent",
+        "cn": "v.缺席；adj.不在的, 缺席的, 缺少的"
+    },
+    {
+        "word": "absolutely",
+        "cn": "adv.完全地, 绝对地"
+    },
+    {
+        "word": "absurd",
+        "cn": "adj.荒谬的, 可笑的"
+    },
+    {
+        "word": "abundance ",
+        "cn": "n.丰富, 充裕, 丰富充裕"
+    },
+    {
+        "word": "abundant ",
+        "cn": "adj.丰富的, 充裕的"
+    },
+    {
+        "word": "abuse",
+        "cn": "n.& v.滥用, 虐待, 辱骂"
+    },
+    {
+        "word": "acceptable",
+        "cn": "adj.可接受的, 合意的"
+    },
+    {
+        "word": "access",
+        "cn": "n.通路, 访问, 入门；v.存取, 接近"
+    },
+    {
+        "word": "accommodate",
+        "cn": "v.供应, 适应,向...提供, 容纳"
+    },
+    {
+        "word": "accomplish",
+        "cn": "v.完成, 达到, 实现"
+    },
+    {
+        "word": "accord",
+        "cn": "n.一致, 符合, 协定；v.一致, 符合"
+    },
+    {
+        "word": "account",
+        "cn": "n.计算, 账目, 说明"
+    },
+    {
+        "word": "accumulate",
+        "cn": "v.积聚, 堆积"
+    },
+    {
+        "word": "accurate",
+        "cn": "adj.正确的, 精确的"
+    },
+    {
+        "word": "accuse",
+        "cn": "v.控告, 谴责, 非难"
+    },
+    {
+        "word": "acknowledge",
+        "cn": "v.承认, 答谢, 报偿"
+    },
+    {
+        "word": "acquaint",
+        "cn": "v.使熟知, 通知"
+    },
+    {
+        "word": "acquire",
+        "cn": "v.获得, 学到"
+    },
+    {
+        "word": "activate",
+        "cn": "v.刺激, 使活动，有活力"
+    },
+    {
+        "word": "actually",
+        "cn": "adv.实际上, 事实上"
+    },
+    {
+        "word": "acute",
+        "cn": " adj.敏锐的, 急性的, 剧烈的"
+    },
+    {
+        "word": "adapt ",
+        "cn": "v.使适应, 改编"
+    },
+    {
+        "word": "adaptable e",
+        "cn": "adj.能适应的, 可修改的"
+    },
+    {
+        "word": "add",
+        "cn": " v.增加, 添加"
+    },
+    {
+        "word": "adequate ",
+        "cn": "adj.适当的, 足够的"
+    },
+    {
+        "word": "adhere",
+        "cn": "v.黏附, 胶着, 坚持"
+    },
+    {
+        "word": "adjoin",
+        "cn": "v.邻接, 毗连"
+    },
+    {
+        "word": "adjust",
+        "cn": "v.调整, 调节, 使适合"
+    },
+    {
+        "word": "administer",
+        "cn": "v.管理, 给予, 执行"
+    },
+    {
+        "word": "adolescent",
+        "cn": "n.青少年；adj.青春期的, 青春的"
+    },
+    {
+        "word": "adopt",
+        "cn": " v.采用，收养"
+    },
+    {
+        "word": "adverse",
+        "cn": "adj.不利的, 敌对的, 相反的"
+    },
+    {
+        "word": "advertise ",
+        "cn": "v.做广告, 登广告"
+    },
+    {
+        "word": "advisable ",
+        "cn": "adj.可取的, 明智的"
+    },
+    {
+        "word": "advocate ",
+        "cn": "v.提倡, 鼓吹"
+    },
+    {
+        "word": "aesthetic  ",
+        "cn": "adj.美学的, 审美的"
+    },
+    {
+        "word": "affair",
+        "cn": " n.事务, 事件"
+    },
+    {
+        "word": "affect ",
+        "cn": "v.影响, 感动"
+    },
+    {
+        "word": "affiliate",
+        "cn": "v.(使...)加入, 接受为会员"
+    },
+    {
+        "word": "affirm",
+        "cn": "v.断言, 确认, 肯定"
+    },
+    {
+        "word": "afflict",
+        "cn": "v.使痛苦, 折磨"
+    },
+    {
+        "word": "affluent",
+        "cn": "n.富裕的"
+    },
+    {
+        "word": "agenda",
+        "cn": "n.议程，行动计划"
+    },
+    {
+        "word": "aggravate ",
+        "cn": "v.使恶化, 加重"
+    },
+    {
+        "word": "aggressive",
+        "cn": "adj.好斗的, 侵略性的"
+    },
+    {
+        "word": "agitation  ",
+        "cn": "n.激动, 兴奋, 煽动"
+    },
+    {
+        "word": "agony",
+        "cn": "n.苦恼, 极大的痛苦"
+    },
+    {
+        "word": "alert ",
+        "cn": "adj.提防的, 警惕的"
+    },
+    {
+        "word": "alien ",
+        "cn": "n.外侨；adj.外国的, 相异的"
+    },
+    {
+        "word": "alive ",
+        "cn": "adj.活着的, 活泼的"
+    },
+    {
+        "word": "allege",
+        "cn": "v.宣称, 断言"
+    },
+    {
+        "word": "alleviate",
+        "cn": "v. 减轻，缓和"
+    },
+    {
+        "word": "allowance",
+        "cn": "n.津贴, 补助"
+    },
+    {
+        "word": "alter ",
+        "cn": "v.改变，变更"
+    },
+    {
+        "word": "alternate",
+        "cn": " v.交替, 改变；adj.交替的, 轮流的"
+    },
+    {
+        "word": "amateur  ",
+        "cn": "n.业余爱好者,"
+    },
+    {
+        "word": "amaze   ",
+        "cn": "v.使吃惊"
+    },
+    {
+        "word": "ambiguous",
+        "cn": "adj.暧昧的, 不明确的"
+    },
+    {
+        "word": "ambitious ",
+        "cn": "adj.有雄心的, 野心勃勃的"
+    },
+    {
+        "word": "amend",
+        "cn": "v.修正, 改进, 改正"
+    },
+    {
+        "word": "amount",
+        "cn": "n.数量；v.(to) 总计, 等于"
+    },
+    {
+        "word": "ample",
+        "cn": "adj.充足的, 丰富的"
+    },
+    {
+        "word": "amplify",
+        "cn": "v.放大, 扩大"
+    },
+    {
+        "word": "amuse",
+        "cn": "v.使发笑, 使愉快"
+    },
+    {
+        "word": "analogy",
+        "cn": "n.类似, 类推"
+    },
+    {
+        "word": "anniversary",
+        "cn": "n.周年纪念"
+    },
+    {
+        "word": "annually  ",
+        "cn": "adv.一年一次, 每年"
+    },
+    {
+        "word": "anonymous",
+        "cn": "adj.匿名的"
+    },
+    {
+        "word": "antique",
+        "cn": "n.古物, 古董；adj.古时的, 过时的"
+    },
+    {
+        "word": "anxiety",
+        "cn": "n.忧虑, 焦急, 渴望"
+    },
+    {
+        "word": "anxious",
+        "cn": "adj. 担忧的, 渴望的"
+    },
+    {
+        "word": "appeal",
+        "cn": "n.& v.请求, 呼吁,控诉"
+    },
+    {
+        "word": "appearance",
+        "cn": "n.出现, 露面, 外貌"
+    },
+    {
+        "word": "appendix ",
+        "cn": "n.附录, 附属品, 阑尾"
+    },
+    {
+        "word": "applaud  ",
+        "cn": "v.拍手喝彩, 称赞"
+    },
+    {
+        "word": "applicable",
+        "cn": "adj.可适用的, 可应用的"
+    },
+    {
+        "word": "appointment",
+        "cn": "n.约会, 指定"
+    },
+    {
+        "word": "appraisal ",
+        "cn": "n.评价, 鉴定"
+    },
+    {
+        "word": "appreciable",
+        "cn": "adj.可感知的, 可评估的"
+    },
+    {
+        "word": "appreciate",
+        "cn": "v.赏识, 感激"
+    },
+    {
+        "word": "apprehension",
+        "cn": " n.理解, 忧惧"
+    },
+    {
+        "word": "approach ",
+        "cn": "n.& v. 接近, 通路,靠近"
+    },
+    {
+        "word": "appropriate",
+        "cn": "adj.适当的；v.拨款"
+    },
+    {
+        "word": "approve",
+        "cn": " v.赞成, 批准, 通过"
+    },
+    {
+        "word": "apt",
+        "cn": " adj.有...倾向的, 灵敏的, 灵巧的"
+    },
+    {
+        "word": "arbitrary",
+        "cn": " adj. 武断的, 专断的"
+    },
+    {
+        "word": "arise ",
+        "cn": "vi.出现, 发生, 起床"
+    },
+    {
+        "word": "arouse",
+        "cn": "v.唤醒, 唤起"
+    },
+    {
+        "word": "arrange",
+        "cn": "v.安排, 排列, 协商"
+    },
+    {
+        "word": "array",
+        "cn": "n.排列, 编队"
+    },
+    {
+        "word": "articulate",
+        "cn": "adj.发音清晰的，听得懂的"
+    },
+    {
+        "word": "artificial",
+        "cn": "adj.人造的, 假的"
+    },
+    {
+        "word": "ascend",
+        "cn": "v.攀登, 上升"
+    },
+    {
+        "word": "ascertain",
+        "cn": "v.确定, 探知"
+    },
+    {
+        "word": "ascribe",
+        "cn": "v.归因于, 归咎于"
+    },
+    {
+        "word": "assault",
+        "cn": "n.& v.攻击, 袭击"
+    },
+    {
+        "word": "assemble",
+        "cn": "v.集合, 聚集"
+    },
+    {
+        "word": "assert",
+        "cn": "v.断言, 声称"
+    },
+    {
+        "word": "assessment",
+        "cn": "n.估价"
+    },
+    {
+        "word": "asset ",
+        "cn": "n.资产, 有用的东西"
+    },
+    {
+        "word": "assignment",
+        "cn": "n.分配, 委派, 任务"
+    },
+    {
+        "word": "assimilate ",
+        "cn": "v.吸收"
+    },
+    {
+        "word": "associate ",
+        "cn": "v.联系, 交往, 结交"
+    },
+    {
+        "word": "assume",
+        "cn": "v.假定, 设想"
+    },
+    {
+        "word": "assumption",
+        "cn": "n.假定, 设想"
+    },
+    {
+        "word": "assurance",
+        "cn": " n.确信, 断言, 保证"
+    },
+    {
+        "word": "attack",
+        "cn": "n.& v.进攻, 攻击"
+    },
+    {
+        "word": "attainable ",
+        "cn": "adj.可到达的, 可得到的"
+    },
+    {
+        "word": "attempt",
+        "cn": "n.企图 ；v.尝试, 企图"
+    },
+    {
+        "word": "attend",
+        "cn": "v.出席, 照顾, 护理"
+    },
+    {
+        "word": "attendance",
+        "cn": "n.出席, 出席的人数"
+    },
+    {
+        "word": "attention",
+        "cn": "n.注意, 关心, 注意力"
+    },
+    {
+        "word": "attitude",
+        "cn": "n.姿势, 态度, 看法"
+    },
+    {
+        "word": "attraction",
+        "cn": "n.吸引, 吸引力"
+    },
+    {
+        "word": "attribute",
+        "cn": "n.属性；v. 归结于"
+    },
+    {
+        "word": "authentic",
+        "cn": "adj.可信的，真实的"
+    },
+    {
+        "word": "authorize",
+        "cn": "v.批准"
+    },
+    {
+        "word": "automatically",
+        "cn": "adv.自动地, 机械地"
+    },
+    {
+        "word": "automation",
+        "cn": "n.自动，自动化"
+    },
+    {
+        "word": "autonomy",
+        "cn": "n.自治"
+    },
+    {
+        "word": "avail",
+        "cn": "vi.有益于；n.效用"
+    },
+    {
+        "word": "available",
+        "cn": "adj.可用到的, 可利用的, 通用的"
+    },
+    {
+        "word": "avenue",
+        "cn": "n.林荫道, 大街, 路"
+    },
+    {
+        "word": "average",
+        "cn": "n.平均数；adj. 平均的"
+    },
+    {
+        "word": "avert",
+        "cn": "v.转移，避免"
+    },
+    {
+        "word": "avoid",
+        "cn": "vt.避免, 消除"
+    },
+    {
+        "word": "awkward",
+        "cn": "adj.难使用的, 笨拙的"
+    },
+    {
+        "word": "badly",
+        "cn": "adv.严重地, 恶劣地"
+    },
+    {
+        "word": "baffle",
+        "cn": "v.困惑, 阻碍, 为难"
+    },
+    {
+        "word": "bald",
+        "cn": "adj.光秃的, 单调的, 枯燥的"
+    },
+    {
+        "word": "ban",
+        "cn": "v & n.禁止"
+    },
+    {
+        "word": "bandage",
+        "cn": "n.绷带"
+    },
+    {
+        "word": "bankrupt",
+        "cn": "v.破产"
+    },
+    {
+        "word": "bare",
+        "cn": "adj.赤裸的, 无遮蔽的"
+    },
+    {
+        "word": "barely",
+        "cn": "adv.仅仅, 刚刚, 几乎不能"
+    },
+    {
+        "word": "bargain",
+        "cn": "n.契约, 合同；v.议价"
+    },
+    {
+        "word": "barrel",
+        "cn": "n.桶，圆筒"
+    },
+    {
+        "word": "barren",
+        "cn": "adj.不生育的, 不孕的, 贫瘠的"
+    },
+    {
+        "word": "barrier",
+        "cn": "n.障碍物, 栅栏, 屏障"
+    },
+    {
+        "word": "battery",
+        "cn": "n.电池"
+    },
+    {
+        "word": "beam",
+        "cn": "n.梁, 横梁, (光线的)束, 柱, 电波"
+    },
+    {
+        "word": "beneficial",
+        "cn": "adj.有益的,有利的"
+    },
+    {
+        "word": "benefit",
+        "cn": "n.利益, 好处；v.有益于, 有助于"
+    },
+    {
+        "word": "betray",
+        "cn": "vt.出卖, 背叛, 泄露"
+    },
+    {
+        "word": "bewilder",
+        "cn": "v.迷惑, 不知所措"
+    },
+    {
+        "word": "bias",
+        "cn": "n.偏见, 偏爱"
+    },
+    {
+        "word": "bibliography",
+        "cn": "n.书目, 参考书目"
+    },
+    {
+        "word": "bite",
+        "cn": "n.& v.咬, 刺痛"
+    },
+    {
+        "word": "bitter",
+        "cn": "adj.苦的, 痛苦的, 怀恨的"
+    },
+    {
+        "word": "blame",
+        "cn": "n.过失, 责备；vt.责备, 谴责"
+    },
+    {
+        "word": "blank",
+        "cn": "n.空白；adj.空白的, 空着的"
+    },
+    {
+        "word": "blast",
+        "cn": "n.一阵(风), 一股(气流), 爆炸, 冲击波"
+    },
+    {
+        "word": "blaze",
+        "cn": "n.火焰, 光辉；v.燃烧, 照耀"
+    },
+    {
+        "word": "bleak",
+        "cn": "adj.寒冷的, 荒凉的, 凄凉的"
+    },
+    {
+        "word": "bloom",
+        "cn": "n.花；v.开花, 繁盛"
+    },
+    {
+        "word": "blossom",
+        "cn": "n.花, 花开的状态；v.开花, 兴旺, 发展"
+    },
+    {
+        "word": "blunder",
+        "cn": "n.大错, 失误；v. 犯大错, 做错"
+    },
+    {
+        "word": "blunt",
+        "cn": "adj.钝的, 生硬的"
+    },
+    {
+        "word": "blush",
+        "cn": "v.脸红, 羞愧"
+    },
+    {
+        "word": "bold",
+        "cn": "adj.大胆的"
+    },
+    {
+        "word": "boom",
+        "cn": "n.繁荣, 隆隆声；v.暴涨，繁荣"
+    },
+    {
+        "word": "boost",
+        "cn": "v.推进"
+    },
+    {
+        "word": "bother",
+        "cn": "v.烦扰, 打扰"
+    },
+    {
+        "word": "bound",
+        "cn": "n.& v.跃进, 跳；adj.被束缚的"
+    },
+    {
+        "word": "breakdown",
+        "cn": "n.崩溃, 衰弱"
+    },
+    {
+        "word": "breed",
+        "cn": "v.繁殖, 教养, 抚养"
+    },
+    {
+        "word": "bribe",
+        "cn": "n.& v.贿赂"
+    },
+    {
+        "word": "brisk",
+        "cn": "adj.轻快的, 活泼的"
+    },
+    {
+        "word": "bruise",
+        "cn": "n.瘀伤, 擦伤"
+    },
+    {
+        "word": "brutal",
+        "cn": "adj.残忍的, 兽性的"
+    },
+    {
+        "word": "budget",
+        "cn": "n.预算；v.做预算, 编入预算"
+    },
+    {
+        "word": "bump",
+        "cn": "n.撞击, 肿块；v.碰(伤), 撞(破)"
+    },
+    {
+        "word": "burial",
+        "cn": "n.埋葬"
+    },
+    {
+        "word": "burst",
+        "cn": "n.& v.爆裂, 炸破, 爆发"
+    },
+    {
+        "word": "campaign",
+        "cn": "n.运动，竞选活动"
+    },
+    {
+        "word": "capacity",
+        "cn": "n.容量,才能, 能力"
+    },
+    {
+        "word": "captive",
+        "cn": "n.俘虏；adj.被俘的, 被迷住的"
+    },
+    {
+        "word": "car-pool",
+        "cn": "n.多人乘坐同一辆汽车并分担费用"
+    },
+    {
+        "word": "carve",
+        "cn": "v.雕刻, 切开"
+    },
+    {
+        "word": "case",
+        "cn": "n.事, 案例, 情形, 场合"
+    },
+    {
+        "word": "casualty",
+        "cn": "n.伤亡"
+    },
+    {
+        "word": "category",
+        "cn": "n.种类"
+    },
+    {
+        "word": "cater",
+        "cn": "v. 投合，满足(需要)"
+    },
+    {
+        "word": "caution",
+        "cn": "n.小心, 谨慎, 警告"
+    },
+    {
+        "word": "cautious",
+        "cn": "adj.谨慎的, 小心的"
+    },
+    {
+        "word": "cement",
+        "cn": "n.水泥, 接合剂"
+    },
+    {
+        "word": "ceremony",
+        "cn": "n.典礼, 仪式"
+    },
+    {
+        "word": "certainty",
+        "cn": "n.确定, 确实的事情"
+    },
+    {
+        "word": "certify",
+        "cn": "v.证明, 保证"
+    },
+    {
+        "word": "challenge",
+        "cn": "n.& v.挑战"
+    },
+    {
+        "word": "change",
+        "cn": "n.改变, 变化, 找回的零钱；v.改变,变化"
+    },
+    {
+        "word": "chaos",
+        "cn": "n.混乱, 混沌"
+    },
+    {
+        "word": "characterize",
+        "cn": "vt.表现...的特色, 刻画的...性格"
+    },
+    {
+        "word": "charge",
+        "cn": "n.费用；v.索价，控告"
+    },
+    {
+        "word": "charity",
+        "cn": "n.慈善, 施舍, 慈善团体"
+    },
+    {
+        "word": "charm",
+        "cn": "n.吸引力, 魔力, 魅力"
+    },
+    {
+        "word": "charter",
+        "cn": "n.宪章"
+    },
+    {
+        "word": "chat",
+        "cn": "n.& v.聊天"
+    },
+    {
+        "word": "cheat",
+        "cn": "n.& v.欺骗, 骗取，作弊"
+    },
+    {
+        "word": "cherish",
+        "cn": "v.珍爱, 怀抱"
+    },
+    {
+        "word": "chronic",
+        "cn": "adj.慢性的, 延续很长的"
+    },
+    {
+        "word": "circulation",
+        "cn": "n.循环, 流通"
+    },
+    {
+        "word": "circus",
+        "cn": "n.马戏团, 杂技团"
+    },
+    {
+        "word": "cite",
+        "cn": "v.引用, 引证"
+    },
+    {
+        "word": "claim",
+        "cn": "n.要求, 主张；"
+    },
+    {
+        "word": "clarity",
+        "cn": "n.清楚, 透明"
+    },
+    {
+        "word": "clash",
+        "cn": "n.冲突, 撞击声, 抵触；"
+    },
+    {
+        "word": "classic",
+        "cn": "n.杰作, 名著；adj.第一流的，经典的"
+    },
+    {
+        "word": "classify",
+        "cn": "v.分类, 分等"
+    },
+    {
+        "word": "clearance",
+        "cn": "n.清除"
+    },
+    {
+        "word": "climax",
+        "cn": "n.高潮, 顶点"
+    },
+    {
+        "word": "cling",
+        "cn": "vi.粘紧, 附着, 坚持"
+    },
+    {
+        "word": "clutch",
+        "cn": "v.抓住, 攫住"
+    },
+    {
+        "word": "coherent",
+        "cn": "adj.粘在一起的, 一致的, 连贯的"
+    },
+    {
+        "word": "coincide",
+        "cn": "v.一致, 符合"
+    },
+    {
+        "word": "coincidence",
+        "cn": "n.一致, 相合,"
+    },
+    {
+        "word": "collaboration",
+        "cn": "n.协作, 通敌"
+    },
+    {
+        "word": "collected",
+        "cn": "adj.收集成的, 冷静的, 镇定的"
+    },
+    {
+        "word": "collide",
+        "cn": "vi.碰撞, 抵触"
+    },
+    {
+        "word": "combat",
+        "cn": "n.& v.战斗, 格斗"
+    },
+    {
+        "word": "comedy",
+        "cn": "n.喜剧"
+    },
+    {
+        "word": "comfortable",
+        "cn": "adj.舒适的"
+    },
+    {
+        "word": "commemorate",
+        "cn": "v.纪念"
+    },
+    {
+        "word": "commence",
+        "cn": "v.开始, 着手"
+    },
+    {
+        "word": "commend",
+        "cn": "v.称赞, 表扬, 推荐"
+    },
+    {
+        "word": "comment",
+        "cn": "n.& v.注释, 评论"
+    },
+    {
+        "word": "commentary",
+        "cn": "n.注释, 解说词"
+    },
+    {
+        "word": "commodity",
+        "cn": "n.日用品"
+    },
+    {
+        "word": "commonplace",
+        "cn": "n.平凡的事"
+    },
+    {
+        "word": "compact",
+        "cn": "n.契约, 合同；adj.紧凑的, 紧密的"
+    },
+    {
+        "word": "comparable",
+        "cn": "adj.可比较的, 比得上的"
+    },
+    {
+        "word": "comparative",
+        "cn": "adj.比较的, 相当的"
+    },
+    {
+        "word": "compare",
+        "cn": "v.比较, 相比, 比喻"
+    },
+    {
+        "word": "compass",
+        "cn": "n.指南针"
+    },
+    {
+        "word": "compatible",
+        "cn": "adj.谐调的, 一致的, 兼容的"
+    },
+    {
+        "word": "compensate",
+        "cn": "v.偿还, 补偿, 付报酬"
+    },
+    {
+        "word": "compete",
+        "cn": "v.比赛, 竞争"
+    },
+    {
+        "word": "competence",
+        "cn": "n.能力"
+    },
+    {
+        "word": "competitive",
+        "cn": "adj.竞争的"
+    },
+    {
+        "word": "compile",
+        "cn": "v.编译, 编辑, 汇编"
+    },
+    {
+        "word": "complement",
+        "cn": "n.补足物；v.补足"
+    },
+    {
+        "word": "complete",
+        "cn": "v.完成；adj.全部的, 完全的, 完成的"
+    },
+    {
+        "word": "completely",
+        "cn": "adv.十分, 完全地"
+    },
+    {
+        "word": "complication",
+        "cn": "n.复杂，并发症"
+    },
+    {
+        "word": "compliment",
+        "cn": "n.& v. 称赞, 恭维"
+    },
+    {
+        "word": "comply",
+        "cn": "v.顺从, 答应, 遵守"
+    },
+    {
+        "word": "composite",
+        "cn": "n.合成物；adj.合成的, 复合的"
+    },
+    {
+        "word": "comprehensively",
+        "cn": "adv.包括地"
+    },
+    {
+        "word": "compress",
+        "cn": "v.压缩, 摘要叙述"
+    },
+    {
+        "word": "comprise",
+        "cn": "v.包含, 由...组成"
+    },
+    {
+        "word": "compromise",
+        "cn": "v & n.妥协"
+    },
+    {
+        "word": "compulsory",
+        "cn": "adj. 必修的, 被强迫的, 义务的"
+    },
+    {
+        "word": "concede",
+        "cn": "v.勉强, 承认, 让步"
+    },
+    {
+        "word": "conceive",
+        "cn": "v.构思，设想"
+    },
+    {
+        "word": "conception",
+        "cn": "n.观念, 概念"
+    },
+    {
+        "word": "concern",
+        "cn": "vt.涉及, 关系到，关注"
+    },
+    {
+        "word": "concession",
+        "cn": "n.让步"
+    },
+    {
+        "word": "concise",
+        "cn": "adj.简明的, 简练的"
+    },
+    {
+        "word": "confer",
+        "cn": "v.授予， 协议，协商"
+    },
+    {
+        "word": "confident",
+        "cn": "adj.自信的, 确信的"
+    },
+    {
+        "word": "confidential",
+        "cn": "adj.秘密的, 机密的"
+    },
+    {
+        "word": "configuration",
+        "cn": "n.构造, 配置, 外形"
+    },
+    {
+        "word": "confirm",
+        "cn": "v.确定, 批准, 确认，巩固"
+    },
+    {
+        "word": "conform",
+        "cn": "v.一致, 遵守, 符合"
+    },
+    {
+        "word": "confront",
+        "cn": "v.使面临, 对抗"
+    },
+    {
+        "word": "confuse",
+        "cn": "v.搞乱, 使糊涂"
+    },
+    {
+        "word": "confusion",
+        "cn": "n.混乱, 混淆"
+    },
+    {
+        "word": "conscientious",
+        "cn": "adj.尽责的"
+    },
+    {
+        "word": "consequent",
+        "cn": "adj.作为结果的, 随之发生的"
+    },
+    {
+        "word": "consequently",
+        "cn": "adv.从而, 因此"
+    },
+    {
+        "word": "conservative",
+        "cn": "adj.保守的, 守旧的"
+    },
+    {
+        "word": "conserve",
+        "cn": "v.保存, 保藏"
+    },
+    {
+        "word": "consider",
+        "cn": "v.考虑, 照顾, 认为"
+    },
+    {
+        "word": "considerable",
+        "cn": "adj. 值得考虑的, 相当可观的"
+    },
+    {
+        "word": "considerate",
+        "cn": "adj.考虑周到的"
+    },
+    {
+        "word": "consistent",
+        "cn": "adj.一致的, 调和的, 坚固的"
+    },
+    {
+        "word": "consistently",
+        "cn": "adv.一贯地，始终如一地"
+    },
+    {
+        "word": "consolidate",
+        "cn": "v.巩固"
+    },
+    {
+        "word": "conspicuous",
+        "cn": "adj.显著的"
+    },
+    {
+        "word": "constantly",
+        "cn": "adv.不变地, 经常地, 坚持不懈地"
+    },
+    {
+        "word": "constrain",
+        "cn": "v.强迫, 抑制, 拘束"
+    },
+    {
+        "word": "consult",
+        "cn": "v.商量, 请教, 参考"
+    },
+    {
+        "word": "consume",
+        "cn": "v.消耗, 消费, 消灭"
+    },
+    {
+        "word": "consumer",
+        "cn": "n.消费者"
+    },
+    {
+        "word": "contain",
+        "cn": "v.包含, 容纳, 容忍"
+    },
+    {
+        "word": "contemplate",
+        "cn": "v.凝视, 沉思, 预期"
+    },
+    {
+        "word": "contempt",
+        "cn": "n.轻视, 轻蔑, 不尊敬"
+    },
+    {
+        "word": "contend",
+        "cn": "v.斗争, 竞争, 主张"
+    },
+    {
+        "word": "content",
+        "cn": "n.内容, 目录，容量"
+    },
+    {
+        "word": "continual",
+        "cn": "adj.连续的, 频繁的, 持续不断的"
+    },
+    {
+        "word": "continuous",
+        "cn": "adj.连续的, 持续的"
+    },
+    {
+        "word": "contradict",
+        "cn": "v.同...矛盾, 同...抵触"
+    },
+    {
+        "word": "contrary",
+        "cn": "n.相反；adj.相反的, 逆的"
+    },
+    {
+        "word": "contrast",
+        "cn": "n.& v.对比, 对照"
+    },
+    {
+        "word": "contribute",
+        "cn": "v.捐助, 捐献, 贡献"
+    },
+    {
+        "word": "contribution",
+        "cn": "n.捐献, 贡献, 投稿"
+    },
+    {
+        "word": "contrive",
+        "cn": "v.发明, 设计, 图谋"
+    },
+    {
+        "word": "controversial",
+        "cn": "adj.争论的, 争议的"
+    },
+    {
+        "word": "convenient",
+        "cn": "adj.便利的, 方便的"
+    },
+    {
+        "word": "converge",
+        "cn": "v.聚合, 集中于一点"
+    },
+    {
+        "word": "convert",
+        "cn": "v.转变, 改变"
+    },
+    {
+        "word": "convict",
+        "cn": "n.罪犯；v.证明...有罪, 宣告...有罪"
+    },
+    {
+        "word": "cooperative",
+        "cn": "adj.合作的, 协力的"
+    },
+    {
+        "word": "coordinate",
+        "cn": "v.调整, 整理"
+    },
+    {
+        "word": "correct",
+        "cn": "v.改正, 纠正；adj.正确的, 恰当的"
+    },
+    {
+        "word": "correlate",
+        "cn": "v.相互关联"
+    },
+    {
+        "word": "correspondence",
+        "cn": "n.相应, 通信, 信件"
+    },
+    {
+        "word": "corrode",
+        "cn": "v.使腐蚀, 侵蚀"
+    },
+    {
+        "word": "corrupt",
+        "cn": "v.腐烂；adj.腐败的, 贪污的"
+    },
+    {
+        "word": "cosmic",
+        "cn": "adj.宇宙的"
+    },
+    {
+        "word": "counsel",
+        "cn": "n.讨论, 商议, 律师"
+    },
+    {
+        "word": "counterpart",
+        "cn": "n.副本, 极相似的人或物, 配对物"
+    },
+    {
+        "word": "counting",
+        "cn": "n.计算"
+    },
+    {
+        "word": "courage",
+        "cn": "n.勇气, 精神"
+    },
+    {
+        "word": "course",
+        "cn": "n.过程, 课程, 一道菜"
+    },
+    {
+        "word": "courtesy",
+        "cn": "n.谦恭, 允许, 礼貌"
+    },
+    {
+        "word": "coward",
+        "cn": "n.懦弱的人, 胆小的人"
+    },
+    {
+        "word": "crash",
+        "cn": "n.& v. 碰撞, 坠落, 坠毁"
+    },
+    {
+        "word": "creation",
+        "cn": "n.创造, 创作物"
+    },
+    {
+        "word": "crime",
+        "cn": "n.犯罪, 犯罪行为"
+    },
+    {
+        "word": "crisis",
+        "cn": "n. 危机, 危险期, 紧要关头"
+    },
+    {
+        "word": "criterion",
+        "cn": "n.标准, 规范"
+    },
+    {
+        "word": "crucial",
+        "cn": "adj.至关紧要的"
+    },
+    {
+        "word": "crude",
+        "cn": "adj.天然的, 未加工的, 粗糙的"
+    },
+    {
+        "word": "cruise",
+        "cn": "n.& v.巡游, 巡航"
+    },
+    {
+        "word": "culminate",
+        "cn": "v.达到顶点"
+    },
+    {
+        "word": "cultivate",
+        "cn": "v.培养, 耕作"
+    },
+    {
+        "word": "cumulative",
+        "cn": "adj.累积的"
+    },
+    {
+        "word": "curiosity",
+        "cn": "n.好奇心"
+    },
+    {
+        "word": "curious",
+        "cn": "adj.好奇的, 求知的, 古怪的"
+    },
+    {
+        "word": "currency",
+        "cn": "n.流通"
+    },
+    {
+        "word": "curriculum",
+        "cn": "n.课程"
+    },
+    {
+        "word": "curse ",
+        "cn": "v.诅咒, 咒骂, 降祸"
+    },
+    {
+        "word": "customary",
+        "cn": "adj.习惯的, 惯例的"
+    },
+    {
+        "word": "cynical",
+        "cn": "adj.愤世嫉俗的"
+    },
+    {
+        "word": "damage",
+        "cn": "n.& v.损害, 伤害"
+    },
+    {
+        "word": "dazzle",
+        "cn": "v.迷惑, 炫耀"
+    },
+    {
+        "word": "deadly",
+        "cn": "adj.致命的, 势不两立的"
+    },
+    {
+        "word": "debate",
+        "cn": "n.& v.争论, 辩论"
+    },
+    {
+        "word": "decent",
+        "cn": "adj.正派的, 端庄的,得体的"
+    },
+    {
+        "word": "decimal",
+        "cn": "adj.十进的, 小数的"
+    },
+    {
+        "word": "decision",
+        "cn": "n.决定, 决心, 结果"
+    },
+    {
+        "word": "decisive",
+        "cn": "adj.决定性的"
+    },
+    {
+        "word": "decline",
+        "cn": "v.下倾, 下降, 下垂"
+    },
+    {
+        "word": "decrease",
+        "cn": "n.& v. 减少"
+    },
+    {
+        "word": "dedicate",
+        "cn": "v.献(身), 致力"
+    },
+    {
+        "word": "deem",
+        "cn": "v.认为, 相信"
+    },
+    {
+        "word": "deficiency",
+        "cn": "n.缺乏, 不足"
+    },
+    {
+        "word": "deficit",
+        "cn": "n.赤字, 不足额"
+    },
+    {
+        "word": "defy",
+        "cn": "v.不服从, 公然反抗, 挑衅"
+    },
+    {
+        "word": "degenerate",
+        "cn": "v.退化"
+    },
+    {
+        "word": "degrade",
+        "cn": "v.降级, 堕落, 退化"
+    },
+    {
+        "word": "delay",
+        "cn": "n.& v.耽搁, 延迟, 延期"
+    },
+    {
+        "word": "deliberate",
+        "cn": "adj.深思熟虑的, 故意的"
+    },
+    {
+        "word": "delicate",
+        "cn": "adj.精巧的, 精致的"
+    },
+    {
+        "word": "deliver",
+        "cn": "v.递送, 陈述, 发表"
+    },
+    {
+        "word": "demand",
+        "cn": "v.要求, 需要"
+    },
+    {
+        "word": "demonstrate",
+        "cn": "v.示范，证明，论证"
+    },
+    {
+        "word": "denial",
+        "cn": "n.否认, 否定, 拒绝"
+    },
+    {
+        "word": "denote",
+        "cn": "v.指示, 表示"
+    },
+    {
+        "word": "denounce",
+        "cn": "v.公开指责, 公然抨击, 谴责"
+    },
+    {
+        "word": "dense",
+        "cn": "adj.密集的, 浓厚的"
+    },
+    {
+        "word": "deny",
+        "cn": "v.否认, 拒绝"
+    },
+    {
+        "word": "depict",
+        "cn": "v.描述, 描写"
+    },
+    {
+        "word": "depression",
+        "cn": "n.沮丧, 消沉, 低气压, 低压"
+    },
+    {
+        "word": "deprive",
+        "cn": "v.剥夺, 使丧失"
+    },
+    {
+        "word": "depute",
+        "cn": "v.委托"
+    },
+    {
+        "word": "descendant",
+        "cn": "n.子孙, 后裔, 后代"
+    },
+    {
+        "word": "descent",
+        "cn": "n.降下, 降落, 世系"
+    },
+    {
+        "word": "desert",
+        "cn": "n.沙漠；v.放弃, 遗弃"
+    },
+    {
+        "word": "desire",
+        "cn": "n.愿望；v.想望, 期望,要求"
+    },
+    {
+        "word": "despise",
+        "cn": "v.轻视"
+    },
+    {
+        "word": "destroy",
+        "cn": "v.破坏, 毁坏, 消灭"
+    },
+    {
+        "word": "destructive",
+        "cn": "adj.破坏(性)的"
+    },
+    {
+        "word": "detach",
+        "cn": "v.分开, 分遣, 派遣(军队)"
+    },
+    {
+        "word": "deteriorate",
+        "cn": "v.恶化"
+    },
+    {
+        "word": "determination",
+        "cn": "n.决心, 果断"
+    },
+    {
+        "word": "devote",
+        "cn": "v.投入于, 献身"
+    },
+    {
+        "word": "diagnose",
+        "cn": "v.诊断"
+    },
+    {
+        "word": "diagram",
+        "cn": "n.图表"
+    },
+    {
+        "word": "differ",
+        "cn": "v.不一致, 不同"
+    },
+    {
+        "word": "diffuse",
+        "cn": "v.散播, 传播, 漫射；adj.散开的, 弥漫的"
+    },
+    {
+        "word": "dignity",
+        "cn": "n.尊严, 高贵"
+    },
+    {
+        "word": "dilemma",
+        "cn": "n.进退两难的局面, 困难的选择"
+    },
+    {
+        "word": "diminish",
+        "cn": "v.减少, 变小"
+    },
+    {
+        "word": "direction",
+        "cn": "n.方向, 指导, 说明(书)"
+    },
+    {
+        "word": "disable",
+        "cn": "v.残废, 失去能力"
+    },
+    {
+        "word": "disastrous",
+        "cn": "adj.损失惨重的, 悲伤的"
+    },
+    {
+        "word": "discern",
+        "cn": "v.目睹, 洞悉, 辨别"
+    },
+    {
+        "word": "discrete",
+        "cn": "adj.不连续的, 离散的"
+    },
+    {
+        "word": "discriminate",
+        "cn": "v.歧视, 区别, 区别待遇"
+    },
+    {
+        "word": "disguise",
+        "cn": "n.伪装；v.假装, 伪装"
+    },
+    {
+        "word": "dismay ",
+        "cn": "n.沮丧, 惊慌"
+    },
+    {
+        "word": "dispatch",
+        "cn": "n.急件；v.分派, 派遣"
+    },
+    {
+        "word": "disperse",
+        "cn": "v.分散, 散开, 疏散"
+    },
+    {
+        "word": "dispose",
+        "cn": "v.处理, 处置, 销毁"
+    },
+    {
+        "word": "disposition",
+        "cn": "n.部署"
+    },
+    {
+        "word": "dispute",
+        "cn": "n.& v.争论, 辩论, 怀疑"
+    },
+    {
+        "word": "disregard",
+        "cn": "n.& v.漠视, 忽视"
+    },
+    {
+        "word": "distance",
+        "cn": "n.远离, 一长段时间, 远方"
+    },
+    {
+        "word": "distinguish",
+        "cn": "v.区别，分辨"
+    },
+    {
+        "word": "distort",
+        "cn": "v.扭曲, 歪曲"
+    },
+    {
+        "word": "distract",
+        "cn": "v.转移"
+    },
+    {
+        "word": "disturb",
+        "cn": "v.弄乱, 打扰, 扰乱"
+    },
+    {
+        "word": "diversion",
+        "cn": "n.转移, 转换, 牵制"
+    },
+    {
+        "word": "divert",
+        "cn": "v.转移, 转向, 使高兴"
+    },
+    {
+        "word": "dizzy",
+        "cn": "adj.眩晕的, 昏乱的"
+    },
+    {
+        "word": "doctrine",
+        "cn": "n.教条, 学说"
+    },
+    {
+        "word": "document",
+        "cn": "n.文献，文档，档案"
+    },
+    {
+        "word": "dominant",
+        "cn": "adj.有统治权的, 占优势的, 显性的"
+    },
+    {
+        "word": "dominate",
+        "cn": "v.支配, 占优势"
+    },
+    {
+        "word": "donate",
+        "cn": "v.捐赠, 赠予"
+    },
+    {
+        "word": "doom",
+        "cn": "n.厄运, 毁灭, 世末日"
+    },
+    {
+        "word": "drastic",
+        "cn": "adj.激烈的, 猛烈的"
+    },
+    {
+        "word": "draw",
+        "cn": "v. 曳, 牵, 画, 绘制"
+    },
+    {
+        "word": "drawback",
+        "cn": "n.缺点, 障碍, 退税，弊端"
+    },
+    {
+        "word": "dreadful",
+        "cn": "adj.可怕的, 讨厌的"
+    },
+    {
+        "word": "drop",
+        "cn": "v.滴下, 落下, 下降"
+    },
+    {
+        "word": "drought",
+        "cn": "n.干旱, 缺乏"
+    },
+    {
+        "word": "dual",
+        "cn": "adj.双的, 二重的, 双重"
+    },
+    {
+        "word": "dubious",
+        "cn": "adj.可疑的, 不确定的"
+    },
+    {
+        "word": "duplicate",
+        "cn": "v.复制 adj.复制的，双重的"
+    },
+    {
+        "word": "dwell",
+        "cn": "v.居住, 踌躇"
+    },
+    {
+        "word": "eccentric",
+        "cn": "n.行为古怪的人；adj.古怪"
+    },
+    {
+        "word": "echo",
+        "cn": "n.回声，回音 v.回响"
+    },
+    {
+        "word": "eclipse",
+        "cn": "n.日蚀, 月蚀"
+    },
+    {
+        "word": "edge",
+        "cn": "n.刀口, 利刃, 边缘,优势"
+    },
+    {
+        "word": "edible",
+        "cn": "adj.可食用的"
+    },
+    {
+        "word": "editorial",
+        "cn": "n.社论"
+    },
+    {
+        "word": "educate",
+        "cn": "v.教育, 训练, 培养"
+    },
+    {
+        "word": "effect",
+        "cn": "n.结果, 效果, 作用"
+    },
+    {
+        "word": "effective",
+        "cn": "adj.有效的, 被实施的"
+    },
+    {
+        "word": "efficient",
+        "cn": "adj.生效的, 有效率的, 能干的"
+    },
+    {
+        "word": "eject",
+        "cn": "v.撵出, 驱逐, 喷射"
+    },
+    {
+        "word": "elapse",
+        "cn": "v.过去, 消逝，流逝"
+    },
+    {
+        "word": "elegant",
+        "cn": "adj.文雅的, 雅致的"
+    },
+    {
+        "word": "elevate",
+        "cn": "v.举起, 提拔, 振奋"
+    },
+    {
+        "word": "elicit",
+        "cn": "v.得出, 引出, 引起"
+    },
+    {
+        "word": "eligible",
+        "cn": "adj.符合条件的, 合格的"
+    },
+    {
+        "word": "eliminate",
+        "cn": "v.消除"
+    },
+    {
+        "word": "elite",
+        "cn": "n.精华, 精英，中坚分子"
+    },
+    {
+        "word": "eloquent",
+        "cn": "adj.雄辩的, 有口才的"
+    },
+    {
+        "word": "embark",
+        "cn": "v.上船, 上飞机, 从事"
+    },
+    {
+        "word": "embody",
+        "cn": "v.具体表达, 具体化, 包含"
+    },
+    {
+        "word": "emotion",
+        "cn": "n.情绪, 情感, 感情"
+    },
+    {
+        "word": "emphasize",
+        "cn": "v.强调, 着重"
+    },
+    {
+        "word": "empirical",
+        "cn": "adj.完全根据经验的, 经验主义的"
+    },
+    {
+        "word": "employ",
+        "cn": "v.雇用, 使用"
+    },
+    {
+        "word": "endeavor",
+        "cn": "n.& v. 努力, 尽力"
+    },
+    {
+        "word": "endow",
+        "cn": "v.捐赠, 赋予"
+    },
+    {
+        "word": "endurance",
+        "cn": "n.忍耐(力), 持久(力)"
+    },
+    {
+        "word": "endure",
+        "cn": "v.耐久, 忍耐"
+    },
+    {
+        "word": "energetic",
+        "cn": "adj.精力充沛的, 积极的"
+    },
+    {
+        "word": "engagement",
+        "cn": "n.约会, 婚约, 诺言"
+    },
+    {
+        "word": "enhance",
+        "cn": "v.提高, 增强"
+    },
+    {
+        "word": "enlightened",
+        "cn": "v.启迪；adj.文明"
+    },
+    {
+        "word": "enormous",
+        "cn": "adj.巨大的, 庞大的"
+    },
+    {
+        "word": "enroll",
+        "cn": "v.登记, 招收"
+    },
+    {
+        "word": "ensure",
+        "cn": "v.保证, 担保, 确保"
+    },
+    {
+        "word": "entertainment",
+        "cn": "n.款待, 娱乐, 娱乐表演"
+    },
+    {
+        "word": "enthusiastic",
+        "cn": "adj.热心的, 热情的"
+    },
+    {
+        "word": "entitle",
+        "cn": "v.给...权利(或资格), 授权"
+    },
+    {
+        "word": "epidemic",
+        "cn": "adj.流行的，传染的"
+    },
+    {
+        "word": "episode",
+        "cn": "n.一段情节, 插曲"
+    },
+    {
+        "word": "epoch",
+        "cn": "n.新纪元, 时代"
+    },
+    {
+        "word": "equal",
+        "cn": "adj.相等的, 均等的"
+    },
+    {
+        "word": "equivalent",
+        "cn": "adj.相等的, 等量的"
+    },
+    {
+        "word": "erect",
+        "cn": "v.竖立, 树立, 建立"
+    },
+    {
+        "word": "erupt",
+        "cn": "v.喷出，爆发"
+    },
+    {
+        "word": "escort",
+        "cn": "n.& v.护卫, 护送"
+    },
+    {
+        "word": "essence",
+        "cn": "n.基本, 本质, 精华"
+    },
+    {
+        "word": "essentially",
+        "cn": "adv.本质上, 本来"
+    },
+    {
+        "word": "estate",
+        "cn": "n.不动产, 阶层, 财产"
+    },
+    {
+        "word": "esthetic",
+        "cn": "adj.感觉的"
+    },
+    {
+        "word": "eternal",
+        "cn": "adj.永恒的, 永远的, 不灭的"
+    },
+    {
+        "word": "ethnic",
+        "cn": "adj.人种的, 种族的"
+    },
+    {
+        "word": "event",
+        "cn": "n.事件, 事变, 活动, 竞赛"
+    },
+    {
+        "word": "evoke",
+        "cn": "v.唤起, 引起, 博得"
+    },
+    {
+        "word": "exaggerate",
+        "cn": "v.夸大, 夸张"
+    },
+    {
+        "word": "exception",
+        "cn": "n.例外, 反对, 异议"
+    },
+    {
+        "word": "excess",
+        "cn": "n.过度, 超过，过量"
+    },
+    {
+        "word": "excessive",
+        "cn": "adj.过多的, 过分的"
+    },
+    {
+        "word": "exchange",
+        "cn": "v.交换, 兑换, 交流"
+    },
+    {
+        "word": "exclusive",
+        "cn": "adj.排外的, 独占的, 唯一的"
+    },
+    {
+        "word": "exclusively",
+        "cn": "adv.排外地, 专有地"
+    },
+    {
+        "word": "execution",
+        "cn": "n.实行, 执行, 死刑"
+    },
+    {
+        "word": "exemplify",
+        "cn": "n.例证, 范例"
+    },
+    {
+        "word": "exhaust",
+        "cn": "v.用尽, 耗尽, 筋疲力尽"
+    },
+    {
+        "word": "exhibition",
+        "cn": "n.表现, 展览会, 展览品"
+    },
+    {
+        "word": "exile",
+        "cn": "n.放逐, 被放逐者；v.放逐, 流放"
+    },
+    {
+        "word": "expand",
+        "cn": "v.膨胀, 详述, 扩张"
+    },
+    {
+        "word": "expansion",
+        "cn": "n.扩充, 膨胀, 扩张物"
+    },
+    {
+        "word": "expansive",
+        "cn": "adj.易膨胀的, 易扩张的, 广阔的"
+    },
+    {
+        "word": "expedition",
+        "cn": "n.远征, 探险队, 派遣"
+    },
+    {
+        "word": "expel",
+        "cn": "v.驱逐, 排出, 发射"
+    },
+    {
+        "word": "expenditure",
+        "cn": "n.支出, 花费"
+    },
+    {
+        "word": "expense",
+        "cn": "n.费用, 代价, 开支"
+    },
+    {
+        "word": "expensive",
+        "cn": "adj.花费的, 昂贵的"
+    },
+    {
+        "word": "expire",
+        "cn": "v.终止, 到期"
+    },
+    {
+        "word": "explicit",
+        "cn": "adj.外在的, 清楚的, 直率的"
+    },
+    {
+        "word": "exposition",
+        "cn": "n.博览会, 说明, 曝露"
+    },
+    {
+        "word": "exposure",
+        "cn": "n.暴露, 曝光, 揭露"
+    },
+    {
+        "word": "exquisite",
+        "cn": "adj.精致的, 细腻的, 敏锐的"
+    },
+    {
+        "word": "extend",
+        "cn": "v.扩充, 延伸, 伸展"
+    },
+    {
+        "word": "extension",
+        "cn": "n.延长, 扩充, 范围"
+    },
+    {
+        "word": "extensive",
+        "cn": "adj.广大的, 广阔的, 广泛的"
+    },
+    {
+        "word": "extent",
+        "cn": "n. 范围, 程度"
+    },
+    {
+        "word": "extinct",
+        "cn": "adj.熄灭的, 灭绝的, 耗尽的"
+    },
+    {
+        "word": "extinguish",
+        "cn": "v.熄灭, 消灭, 压制"
+    },
+    {
+        "word": "extra",
+        "cn": "adj.额外的；adv.特别地；"
+    },
+    {
+        "word": "extract",
+        "cn": "n. 摘录；v.拔出, 榨取"
+    },
+    {
+        "word": "extravagant",
+        "cn": "adj.奢侈的, 浪费的, 过分的"
+    },
+    {
+        "word": "extremely",
+        "cn": "adv.极端地, 非常地"
+    },
+    {
+        "word": "fabricate",
+        "cn": "v.制作, 构成, 捏造, 伪造"
+    },
+    {
+        "word": "facilitate",
+        "cn": "v.容易, 增长"
+    },
+    {
+        "word": "faith",
+        "cn": "n.信念, 信仰, 忠实"
+    },
+    {
+        "word": "fame",
+        "cn": "n.名声, 名望"
+    },
+    {
+        "word": "fantastic",
+        "cn": "adj.幻想的, 奇异的, 稀奇古怪的"
+    },
+    {
+        "word": "fascinate",
+        "cn": "v.着迷, 神魂颠倒"
+    },
+    {
+        "word": "favor",
+        "cn": "n.好感,厚爱"
+    },
+    {
+        "word": "favorite",
+        "cn": "n.特别喜欢的人(或物)；"
+    },
+    {
+        "word": "feast",
+        "cn": "n.节日, 盛宴, 筵席"
+    },
+    {
+        "word": "feature",
+        "cn": "n.特征, 容貌, 特色"
+    },
+    {
+        "word": "feeble",
+        "cn": "adj.虚弱的, 微弱的"
+    },
+    {
+        "word": "ferocious",
+        "cn": "adj.凶猛的，凶恶的"
+    },
+    {
+        "word": "fill",
+        "cn": "v.装满, 注满, 盛满"
+    },
+    {
+        "word": "finite",
+        "cn": "adj.有限的, 有穷的, 限定的"
+    },
+    {
+        "word": "fixed",
+        "cn": "adj.固定的, 确定的"
+    },
+    {
+        "word": "flap",
+        "cn": "n.& v. 拍打, 拍动"
+    },
+    {
+        "word": "flare",
+        "cn": "v. 闪耀，闪亮"
+    },
+    {
+        "word": "flat",
+        "cn": "adj.平坦的, 扁平的, 单调的"
+    },
+    {
+        "word": "flatter",
+        "cn": "v.过分夸赞, 奉承, 阿谀"
+    },
+    {
+        "word": "flaw",
+        "cn": "n.缺点, 裂纹, 瑕疵"
+    },
+    {
+        "word": "fling",
+        "cn": "v.猛投, 抛, 掷"
+    },
+    {
+        "word": "flourish",
+        "cn": "v.兴盛，繁荣，蓬勃发展"
+    },
+    {
+        "word": "flow",
+        "cn": "v.流动, 涌流, 川流不息"
+    },
+    {
+        "word": "fluctuate",
+        "cn": "v.变动, 波动, 涨落"
+    },
+    {
+        "word": "fluent",
+        "cn": "adj.流利的, 流畅的"
+    },
+    {
+        "word": "flush",
+        "cn": "v.(脸)发红, 奔涌,奔流"
+    },
+    {
+        "word": "flutter",
+        "cn": "v.鼓翼, 飘动, 悸动"
+    },
+    {
+        "word": "forceful",
+        "cn": "adj.有力的, 有说服力的"
+    },
+    {
+        "word": "foresee",
+        "cn": "v.预见, 预知"
+    },
+    {
+        "word": "format",
+        "cn": "n. 形式, 格式；v.格式化"
+    },
+    {
+        "word": "forum",
+        "cn": "n. 论坛, 法庭, 讨论会"
+    },
+    {
+        "word": "foster",
+        "cn": "v.养育, 抚育, 培养"
+    },
+    {
+        "word": "fracture",
+        "cn": "n.破裂, 骨折；v.破碎, 破裂"
+    },
+    {
+        "word": "fragile",
+        "cn": "adj.易碎的, 脆的"
+    },
+    {
+        "word": "fresh",
+        "cn": "adj.新鲜的, 无经验的, 生的"
+    },
+    {
+        "word": "frustrate",
+        "cn": "v.挫败, 阻挠, 感到灰心"
+    },
+    {
+        "word": "fuel",
+        "cn": "n.燃料 v.添加燃料，助长"
+    },
+    {
+        "word": "fulfill",
+        "cn": "v.履行, 实现, 完成"
+    },
+    {
+        "word": "fully",
+        "cn": "adv.充分地, 完全地"
+    },
+    {
+        "word": "fundamentally",
+        "cn": "adv.基础地, 根本地"
+    },
+    {
+        "word": "furious",
+        "cn": "adj.狂怒的, 狂暴的"
+    },
+    {
+        "word": "furnish",
+        "cn": "v.供应, 装备, 布置"
+    },
+    {
+        "word": "fuss",
+        "cn": "n.忙乱, 吹捧；v.忙乱"
+    },
+    {
+        "word": "gain",
+        "cn": "n.& v.增加, 增进, 获得"
+    },
+    {
+        "word": "gap",
+        "cn": "n.裂口, 差距, 隔阂"
+    },
+    {
+        "word": "gasp",
+        "cn": "v.喘息, 气喘"
+    },
+    {
+        "word": "gather",
+        "cn": "v.集合, 聚集"
+    },
+    {
+        "word": "generalize",
+        "cn": "v.归纳, 概括, 推广"
+    },
+    {
+        "word": "generate",
+        "cn": "v.产生, 发生"
+    },
+    {
+        "word": "generous",
+        "cn": "adj.慷慨的, 大方的, 有雅量的"
+    },
+    {
+        "word": "genetic",
+        "cn": "adj. 遗传的，起源的"
+    },
+    {
+        "word": "genuine",
+        "cn": "adj.真实的, 真正的, 诚恳的"
+    },
+    {
+        "word": "gigantic",
+        "cn": "adj.巨人般的, 巨大的"
+    },
+    {
+        "word": "glare",
+        "cn": "n.& v. 瞪眼"
+    },
+    {
+        "word": "gleam",
+        "cn": "n.微光；v.闪烁, 发微光"
+    },
+    {
+        "word": "glide",
+        "cn": "n.滑行；v.滑动，消逝"
+    },
+    {
+        "word": "glimpse",
+        "cn": "n.一瞥, 一看；v.瞥见"
+    },
+    {
+        "word": "glitter",
+        "cn": "n.闪光；v.闪闪发光"
+    },
+    {
+        "word": "gloomy",
+        "cn": "adj.黑暗的, 阴沉的, 令人沮丧的"
+    },
+    {
+        "word": "gorgeous",
+        "cn": "adj.华丽的, 灿烂的"
+    },
+    {
+        "word": "gossip",
+        "cn": "n.闲话, 闲谈"
+    },
+    {
+        "word": "grab",
+        "cn": "v.抢夺, 攫取, 夺取"
+    },
+    {
+        "word": "gracious",
+        "cn": "adj.亲切的, 高尚的"
+    },
+    {
+        "word": "gradually",
+        "cn": "adv.逐渐地"
+    },
+    {
+        "word": "grant",
+        "cn": "v.同意, 准予"
+    },
+    {
+        "word": "grasp",
+        "cn": "n.& v. 抓住, 抓紧, 掌握"
+    },
+    {
+        "word": "graze",
+        "cn": "v.放牧, 吃草"
+    },
+    {
+        "word": "grease",
+        "cn": "n.油脂，脂肪"
+    },
+    {
+        "word": "grief",
+        "cn": "n.悲痛, 不幸, 忧伤"
+    },
+    {
+        "word": "grieve",
+        "cn": "v.悲痛, 伤心, 忧伤"
+    },
+    {
+        "word": "grin",
+        "cn": "n.& v.露齿笑"
+    },
+    {
+        "word": "groan",
+        "cn": "n.& v. 呻吟, 叹息"
+    },
+    {
+        "word": "grope",
+        "cn": "n.& v.摸索"
+    },
+    {
+        "word": "growth",
+        "cn": "n.生长, 栽培, 发育"
+    },
+    {
+        "word": "guarantee",
+        "cn": "n.保证, 保证书"
+    },
+    {
+        "word": "guide",
+        "cn": "n.导游者, 指南；"
+    },
+    {
+        "word": "guilty",
+        "cn": "adj.犯罪的, 有罪的, 心虚的"
+    },
+    {
+        "word": "hamper",
+        "cn": "v.妨碍, 牵制"
+    },
+    {
+        "word": "handicap",
+        "cn": "n.& v.障碍, 阻碍"
+    },
+    {
+        "word": "harsh",
+        "cn": "adj.粗糙的, 荒芜的, 苛刻的"
+    },
+    {
+        "word": "hasty",
+        "cn": "adj.匆忙的, 草率的"
+    },
+    {
+        "word": "haul",
+        "cn": "v.拖运, 拉"
+    },
+    {
+        "word": "haunt",
+        "cn": "v.出没，萦绕"
+    },
+    {
+        "word": "heal",
+        "cn": "v.治愈, 医治, 结束"
+    },
+    {
+        "word": "heavily",
+        "cn": "adv.很重地, 沉重地"
+    },
+    {
+        "word": "heighten",
+        "cn": "v.提高, 升高"
+    },
+    {
+        "word": "heir",
+        "cn": "n.继承人, 后嗣"
+    },
+    {
+        "word": "herald",
+        "cn": "v.预告，作先锋"
+    },
+    {
+        "word": "heritage",
+        "cn": "n.遗产, 继承权, 传统"
+    },
+    {
+        "word": "hierarchy",
+        "cn": "n.层次,层级"
+    },
+    {
+        "word": "hinder",
+        "cn": "v.阻碍, 打扰；adj.后面的"
+    },
+    {
+        "word": "historic",
+        "cn": "adj.历史上著名的, 有历史性的"
+    },
+    {
+        "word": "hollow",
+        "cn": "adj.空的,空洞的"
+    },
+    {
+        "word": "homogeneous",
+        "cn": "adj.同类的, 相似的, 均匀的"
+    },
+    {
+        "word": "hospitality",
+        "cn": "n.好客, 盛情"
+    },
+    {
+        "word": "hostage",
+        "cn": "n.人质, 抵押品"
+    },
+    {
+        "word": "hostile",
+        "cn": "adj.敌对的，有敌意的"
+    },
+    {
+        "word": "hover",
+        "cn": "v.盘旋"
+    },
+    {
+        "word": "humanity",
+        "cn": "n.人性, 人类, 博爱"
+    },
+    {
+        "word": "humidity",
+        "cn": "n.湿气, 潮湿, 湿度"
+    },
+    {
+        "word": "hurl",
+        "cn": "v.猛投, 猛掷"
+    },
+    {
+        "word": "hurt",
+        "cn": "n.& v.刺痛, 伤害, 伤痛"
+    },
+    {
+        "word": "hypothesis",
+        "cn": "n.假设"
+    },
+    {
+        "word": "hysterical",
+        "cn": "adj.歇斯底里的, 异常兴奋的"
+    },
+    {
+        "word": "identification",
+        "cn": "n.辨认, 鉴定, 证明"
+    },
+    {
+        "word": "identity",
+        "cn": "n.身份, 一致, 特性"
+    },
+    {
+        "word": "ideology",
+        "cn": "n.意识形态"
+    },
+    {
+        "word": "idleness",
+        "cn": "n.闲散, 懒惰, 赋闲无事"
+    },
+    {
+        "word": "ignite",
+        "cn": "v.点火, 点燃"
+    },
+    {
+        "word": "ignorance",
+        "cn": "n.无知, 不知"
+    },
+    {
+        "word": "illuminate",
+        "cn": "v.照明, 照亮, 阐明"
+    },
+    {
+        "word": "illusion",
+        "cn": "n.幻想"
+    },
+    {
+        "word": "imaginative",
+        "cn": "adj.想象的, 虚构的"
+    },
+    {
+        "word": "imitation",
+        "cn": "n.模仿, 冒充, 赝品"
+    },
+    {
+        "word": "immense",
+        "cn": "adj.巨大的"
+    },
+    {
+        "word": "immerse",
+        "cn": "v.沉浸, 使陷入"
+    },
+    {
+        "word": "imminent",
+        "cn": "adj.迫近的，即将发生的"
+    },
+    {
+        "word": "immune",
+        "cn": "adj.免疫的"
+    },
+    {
+        "word": "impact",
+        "cn": "n.& v.碰撞, 冲击，影响"
+    },
+    {
+        "word": "impart",
+        "cn": "v.给予, 传授, 告知"
+    },
+    {
+        "word": "imperative",
+        "cn": "adj.命令的, 强制的, 紧急的"
+    },
+    {
+        "word": "implement",
+        "cn": "n.工具, 器具；v.贯彻, 执行"
+    },
+    {
+        "word": "implicit",
+        "cn": "adj.暗示的, 盲从的, 固有的,  绝对的"
+    },
+    {
+        "word": "imply",
+        "cn": "vt.暗示, 意味"
+    },
+    {
+        "word": "impose",
+        "cn": "v.征税, 强加"
+    },
+    {
+        "word": "impress",
+        "cn": "v. 盖印, 留下印象"
+    },
+    {
+        "word": "impression",
+        "cn": "n.印象, 感想, 压痕"
+    },
+    {
+        "word": "impulse",
+        "cn": "n.推动, 刺激, 冲动"
+    },
+    {
+        "word": "inability",
+        "cn": "n.无能, 无力"
+    },
+    {
+        "word": "inaugural",
+        "cn": "adj.就职的 n.就职演说"
+    },
+    {
+        "word": "incapable",
+        "cn": "adj.无能力的, 不能的"
+    },
+    {
+        "word": "incentive",
+        "cn": "n.动机；adj.激励的"
+    },
+    {
+        "word": "incident",
+        "cn": "n.事件, 事变；adj.附带的, 易于发生的"
+    },
+    {
+        "word": "incidentally",
+        "cn": "adv.附带地, 顺便提及"
+    },
+    {
+        "word": "incline",
+        "cn": "n.倾斜, 斜坡；v.倾向, 倾斜"
+    },
+    {
+        "word": "include",
+        "cn": "v.包括, 包含"
+    },
+    {
+        "word": "inclusive",
+        "cn": "adj.包含的, 包括的"
+    },
+    {
+        "word": "incredible",
+        "cn": "adj.难以置信的"
+    },
+    {
+        "word": "indefinite",
+        "cn": "adj.模糊的, 不确定的, 不定的"
+    },
+    {
+        "word": "indicative",
+        "cn": "adj.指示的, 预示的, 可表示的"
+    },
+    {
+        "word": "indifferently",
+        "cn": "adv.冷淡地, 不关心地"
+    },
+    {
+        "word": "indignant",
+        "cn": "adj.愤怒的, 愤慨的"
+    },
+    {
+        "word": "indispensable",
+        "cn": "adj.不可缺少的, 绝对必要的"
+    },
+    {
+        "word": "individual",
+        "cn": "n.个人, 个体；"
+    },
+    {
+        "word": "induce",
+        "cn": "v.劝诱, 促使, 导致, 引起"
+    },
+    {
+        "word": "indulge",
+        "cn": "v.纵容"
+    },
+    {
+        "word": "inevitably",
+        "cn": "adv.不可避免"
+    },
+    {
+        "word": "infectious",
+        "cn": "adj.有传染性的, 易传染的, 有感染力的"
+    },
+    {
+        "word": "inference",
+        "cn": "n.推论"
+    },
+    {
+        "word": "infinite",
+        "cn": "adj.无穷的, 无限的, 极大的"
+    },
+    {
+        "word": "inflict",
+        "cn": "v.造成"
+    },
+    {
+        "word": "inform",
+        "cn": "v. 通知, 告诉, 告知"
+    },
+    {
+        "word": "ingenious",
+        "cn": "adj.机灵的, 有独创性的, 精制的"
+    },
+    {
+        "word": "ingredient",
+        "cn": "n.成分, 因素"
+    },
+    {
+        "word": "inhabit",
+        "cn": "v.居住, 存在"
+    },
+    {
+        "word": "inhabitant",
+        "cn": "n.居民, 居住者"
+    },
+    {
+        "word": "inhibit",
+        "cn": "v.抑制, 约束"
+    },
+    {
+        "word": "initiate",
+        "cn": "v.开始, 发动"
+    },
+    {
+        "word": "initiative",
+        "cn": "n.主动"
+    },
+    {
+        "word": "inject",
+        "cn": "v.注射, 注入"
+    },
+    {
+        "word": "injure",
+        "cn": "v.损害, 伤害"
+    },
+    {
+        "word": "innovation",
+        "cn": "n.改革, 创新"
+    },
+    {
+        "word": "innumerable",
+        "cn": "adj.无数的, 数不清的"
+    },
+    {
+        "word": "inquire",
+        "cn": "v.询问, 问明, 查究"
+    },
+    {
+        "word": "insane",
+        "cn": "adj.患精神病的, 精神病患者的"
+    },
+    {
+        "word": "insensible",
+        "cn": "adj.无知觉的, 无同情心的, 硬心肠的"
+    },
+    {
+        "word": "insert",
+        "cn": "v.插入, 嵌入"
+    },
+    {
+        "word": "insight",
+        "cn": "n.洞察力, 见识"
+    },
+    {
+        "word": "insignificant",
+        "cn": "adj.无关紧要的, 无意义的"
+    },
+    {
+        "word": "inspiration",
+        "cn": "n.灵感"
+    },
+    {
+        "word": "installment",
+        "cn": "n.部分"
+    },
+    {
+        "word": "instant",
+        "cn": "adj.立即的, 直接的, 方便的"
+    },
+    {
+        "word": "instantaneous",
+        "cn": "adj.瞬间的, 即刻的, 即时的"
+    },
+    {
+        "word": "intact",
+        "cn": "adj.完好如初的"
+    },
+    {
+        "word": "intact",
+        "cn": "adj.完整无缺的, 尚未被人碰过的"
+    },
+    {
+        "word": "integrate",
+        "cn": "v.使成整体,一体化,合"
+    },
+    {
+        "word": "integrity",
+        "cn": "n.正直, 完整, 完整性"
+    },
+    {
+        "word": "intelligible",
+        "cn": "adj.可理解的"
+    },
+    {
+        "word": "intensify",
+        "cn": "v.加强，强化"
+    },
+    {
+        "word": "intensive",
+        "cn": "adj.强烈的, 精深的, 透彻的"
+    },
+    {
+        "word": "intent",
+        "cn": "adj.专心的, 决心的, 热心的"
+    },
+    {
+        "word": "intention",
+        "cn": "n.意图, 目的"
+    },
+    {
+        "word": "interfere",
+        "cn": "v.干涉, 妨碍, 打扰"
+    },
+    {
+        "word": "interval",
+        "cn": "n.间隔, 距离"
+    },
+    {
+        "word": "intervene",
+        "cn": "v.干涉, 干预, 插入, 介入"
+    },
+    {
+        "word": "interview",
+        "cn": "n.& v.接见, 会见"
+    },
+    {
+        "word": "intimidate",
+        "cn": "v.胁迫"
+    },
+    {
+        "word": "intricate",
+        "cn": "adj.复杂的, 错综的, 难以理解的"
+    },
+    {
+        "word": "intrigue",
+        "cn": "n.阴谋, 诡计；v.密谋, 激起兴趣"
+    },
+    {
+        "word": "intrinsic",
+        "cn": "adj.固有的, 内在的, 本质的"
+    },
+    {
+        "word": "intuition",
+        "cn": "n.直觉, 直觉的知识"
+    },
+    {
+        "word": "invade",
+        "cn": "v.侵略"
+    },
+    {
+        "word": "invaluable",
+        "cn": "adj.无价的, 价值无法衡量的"
+    },
+    {
+        "word": "invariably",
+        "cn": "adv.不变地, 总是"
+    },
+    {
+        "word": "invert",
+        "cn": "v.颠倒, 转化"
+    },
+    {
+        "word": "involve",
+        "cn": "v.包括, 潜心, 陷于"
+    },
+    {
+        "word": "irrespective",
+        "cn": "adj.不顾的, 不考虑的, 无关的"
+    },
+    {
+        "word": "irritate",
+        "cn": "v.激怒, 急躁"
+    },
+    {
+        "word": "isolate",
+        "cn": "v.隔离, 孤立, 绝缘"
+    },
+    {
+        "word": "issue",
+        "cn": "n. 发行,问题；v.发行"
+    },
+    {
+        "word": "journalist",
+        "cn": "n.新闻记者, 从事新闻杂志业的人"
+    },
+    {
+        "word": "judge",
+        "cn": "n.法官, 裁判员；v.审理, 鉴定, 判断"
+    },
+    {
+        "word": "junction",
+        "cn": "n.连接, 接合, 交叉点"
+    },
+    {
+        "word": "justification",
+        "cn": "n. 理由, 辩护, 释罪"
+    },
+    {
+        "word": "label",
+        "cn": "n.标签, 签条；v.贴标签于, 分类"
+    },
+    {
+        "word": "lack",
+        "cn": "n.& v.缺乏, 没有"
+    },
+    {
+        "word": "lame",
+        "cn": "adj.跛足的, 僵痛的"
+    },
+    {
+        "word": "lasting",
+        "cn": "adj.持久的, 永久的"
+    },
+    {
+        "word": "latent",
+        "cn": "adj.潜在的, 潜伏的, 隐藏的"
+    },
+    {
+        "word": "latitude",
+        "cn": "n.纬度, 范围"
+    },
+    {
+        "word": "latter",
+        "cn": "adj.后面的, 后者的, 较后的"
+    },
+    {
+        "word": "laziness",
+        "cn": "n.怠惰, 无精打采"
+    },
+    {
+        "word": "lead",
+        "cn": "n.& v.领导, 引导，领先"
+    },
+    {
+        "word": "leaflet",
+        "cn": "n.小叶, 传单"
+    },
+    {
+        "word": "leak",
+        "cn": "n.& v. 漏出, 泄漏"
+    },
+    {
+        "word": "legend",
+        "cn": "n.传说, 图例"
+    },
+    {
+        "word": "legislation",
+        "cn": "n.立法, 法律的制定"
+    },
+    {
+        "word": "length",
+        "cn": "n.长度, 长,"
+    },
+    {
+        "word": "liability",
+        "cn": "n.责任, 义务, 倾向"
+    },
+    {
+        "word": "liable",
+        "cn": "adj.有责任的, 有义务的, 有...倾向的"
+    },
+    {
+        "word": "liberal",
+        "cn": "adj.慷慨的, 宽大的"
+    },
+    {
+        "word": "light",
+        "cn": "  n.光（线），灯；v.点燃, 照亮"
+    },
+    {
+        "word": "likely",
+        "cn": "adj.很可能的, 合适的"
+    },
+    {
+        "word": "liking",
+        "cn": "n.爱好, 嗜好"
+    },
+    {
+        "word": "limp",
+        "cn": "v.跛行"
+    },
+    {
+        "word": "linger",
+        "cn": "v.逗留, 闲荡, 拖延"
+    },
+    {
+        "word": "literacy",
+        "cn": "n.有文化，有教养，有读写能力"
+    },
+    {
+        "word": "literal",
+        "cn": "adj.文字的, 照字面上的"
+    },
+    {
+        "word": "litter",
+        "cn": "n.垃圾，废物；v.乱丢"
+    },
+    {
+        "word": "lively",
+        "cn": "adj.活泼的, 活跃的, 真实的"
+    },
+    {
+        "word": "living",
+        "cn": "n.生活, 生计；adj.活的"
+    },
+    {
+        "word": "lodger",
+        "cn": "n.寄宿者, 投宿者"
+    },
+    {
+        "word": "lofty",
+        "cn": "adj.高高的, 崇高的, 高傲的"
+    },
+    {
+        "word": "lonely",
+        "cn": "adj.孤独的, 寂寞的, 偏僻的"
+    },
+    {
+        "word": "longitude",
+        "cn": "n.经度, 经线"
+    },
+    {
+        "word": "lubricate",
+        "cn": "v.润滑,加润滑油"
+    },
+    {
+        "word": "luminous",
+        "cn": "adj.发光的, 明亮的"
+    },
+    {
+        "word": "magnify",
+        "cn": "v.放大, 扩大, 赞美"
+    },
+    {
+        "word": "magnitude",
+        "cn": "n.大小, 数量, 巨大"
+    },
+    {
+        "word": "maintain",
+        "cn": "v.维持, 维修, 主张"
+    },
+    {
+        "word": "manifest",
+        "cn": "v.出现, 表明, 证明"
+    },
+    {
+        "word": "manipulate",
+        "cn": "v.操作, 操纵, 利用"
+    },
+    {
+        "word": "manually",
+        "cn": "adv.用手"
+    },
+    {
+        "word": "manuscript",
+        "cn": "n.手稿, 原稿"
+    },
+    {
+        "word": "mark",
+        "cn": "n. 分数, 记号；v.做标记, 打分数"
+    },
+    {
+        "word": "massive",
+        "cn": "adj.厚重的, 大块的"
+    },
+    {
+        "word": "mechanism",
+        "cn": "n.机械装置, 机构, 机制"
+    },
+    {
+        "word": "media",
+        "cn": "n.媒体"
+    },
+    {
+        "word": "mediate",
+        "cn": "v.仲裁, 调停"
+    },
+    {
+        "word": "menace",
+        "cn": "n.& v. 威胁, 恐吓"
+    },
+    {
+        "word": "merge",
+        "cn": "v.合并, 并入"
+    },
+    {
+        "word": "mess",
+        "cn": "n.混乱, 脏乱"
+    },
+    {
+        "word": "metropolitan ",
+        "cn": "n.大城市；adj.首都的, 主要都市的"
+    },
+    {
+        "word": "migrate",
+        "cn": " v.移往, 迁徙"
+    },
+    {
+        "word": "mild",
+        "cn": "adj.温和的, 温柔的, 轻微的"
+    },
+    {
+        "word": "mingle",
+        "cn": "v.混合"
+    },
+    {
+        "word": "miniature",
+        "cn": "adj.微型的, 缩小的"
+    },
+    {
+        "word": "minimal",
+        "cn": "adj.最小的, 最小限度的"
+    },
+    {
+        "word": "minimize",
+        "cn": "v.减到最少，最小化"
+    },
+    {
+        "word": "minimum",
+        "cn": "n.最小值, 最小化；adj.最小的"
+    },
+    {
+        "word": "miserable",
+        "cn": "adj.痛苦的, 悲惨的, 可怜"
+    },
+    {
+        "word": "misery",
+        "cn": "n.痛苦, 悲惨, 不幸"
+    },
+    {
+        "word": "misfortune",
+        "cn": "n.不幸, 灾祸"
+    },
+    {
+        "word": "mobilize",
+        "cn": "v.动员"
+    },
+    {
+        "word": "mock",
+        "cn": "n.& v.嘲弄, 挖苦"
+    },
+    {
+        "word": "modest",
+        "cn": "adj.谦虚的, 谦让的, 适度的"
+    },
+    {
+        "word": "monopoly",
+        "cn": "n.垄断, 专利"
+    },
+    {
+        "word": "morality",
+        "cn": "n.道德；adj.道德的"
+    },
+    {
+        "word": "mortal",
+        "cn": "adj.必死的, 致命的"
+    },
+    {
+        "word": "mortgage",
+        "cn": "n.& v.抵押"
+    },
+    {
+        "word": "motivation",
+        "cn": "n.动机"
+    },
+    {
+        "word": "muddy",
+        "cn": "adj.多泥的, 泥泞的"
+    },
+    {
+        "word": "multiply",
+        "cn": "v.繁殖, 乘, 增加"
+    },
+    {
+        "word": "multitude",
+        "cn": "n.多数, 群众"
+    },
+    {
+        "word": "muscular",
+        "cn": "adj.肌肉的, 强健的"
+    },
+    {
+        "word": "mutter",
+        "cn": "n.& v.咕哝, 嘀咕"
+    },
+    {
+        "word": "mutual",
+        "cn": "adj.相互的，共有的"
+    },
+    {
+        "word": "naive",
+        "cn": "adj.天真的"
+    },
+    {
+        "word": "narrative",
+        "cn": "adj.叙述性的"
+    },
+    {
+        "word": "nasty",
+        "cn": "adj.污秽的, 淫秽的"
+    },
+    {
+        "word": "necessarily",
+        "cn": "adv.必要地"
+    },
+    {
+        "word": "necessity",
+        "cn": "n.必要性, 需要,必需品"
+    },
+    {
+        "word": "neglect",
+        "cn": "vt.忽视, 疏忽"
+    },
+    {
+        "word": "negotiate",
+        "cn": "v.商议, 谈判, 磋商"
+    },
+    {
+        "word": "nominal",
+        "cn": "adj.名义上的, 有名无实的"
+    },
+    {
+        "word": "nominate",
+        "cn": "v.提名, 推荐"
+    },
+    {
+        "word": "notable ",
+        "cn": "adj.值得注意的, 显著的, 著名的"
+    },
+    {
+        "word": "notify",
+        "cn": "v.通报"
+    },
+    {
+        "word": "notion",
+        "cn": "n.概念, 观念, 想法"
+    },
+    {
+        "word": "notorious",
+        "cn": "adj.声名狼藉的"
+    },
+    {
+        "word": "nourish",
+        "cn": " v.滋养, 健壮"
+    },
+    {
+        "word": "novelty ",
+        "cn": "n.新颖, 新奇, 新鲜"
+    },
+    {
+        "word": "nuisance",
+        "cn": "n.讨厌的人或东西, 麻烦事"
+    },
+    {
+        "word": "numerical",
+        "cn": "adj.数字的, 用数表示的"
+    },
+    {
+        "word": "numerous",
+        "cn": "adj.众多的, 许多的, 无数的"
+    },
+    {
+        "word": "nutrition",
+        "cn": "n.营养, 营养学"
+    },
+    {
+        "word": "obedient",
+        "cn": "adj.服从的, 孝顺的"
+    },
+    {
+        "word": "object",
+        "cn": "n.物体；v.反对, 拒绝, 抗议"
+    },
+    {
+        "word": "obligation",
+        "cn": "n.义务, 职责, 债务"
+    },
+    {
+        "word": "oblige",
+        "cn": "v.迫使, 责成"
+    },
+    {
+        "word": "obscene",
+        "cn": "adj.淫秽的, 猥亵的"
+    },
+    {
+        "word": "obscure",
+        "cn": "adj.朦胧的, 模糊的, 晦涩的"
+    },
+    {
+        "word": "observation",
+        "cn": "n.观察, 观测"
+    },
+    {
+        "word": "obvious",
+        "cn": "adj.明显的, 显而易见的"
+    },
+    {
+        "word": "occupy",
+        "cn": "v.占用, 占据"
+    },
+    {
+        "word": "odds",
+        "cn": "n.可能性，几率"
+    },
+    {
+        "word": "offend",
+        "cn": "v.犯罪, 冒犯, 得罪"
+    },
+    {
+        "word": "offensive",
+        "cn": "adj.讨厌的, 无礼的, 攻击性的"
+    },
+    {
+        "word": "offer",
+        "cn": "v.提供, 出价"
+    },
+    {
+        "word": "omit",
+        "cn": "v.省略, 疏忽, 遗漏"
+    },
+    {
+        "word": "oppress ",
+        "cn": "v.压迫, 压抑"
+    },
+    {
+        "word": "optimism",
+        "cn": "n.乐观, 乐观主义"
+    },
+    {
+        "word": "option",
+        "cn": "n.选项, 选择权"
+    },
+    {
+        "word": "optional",
+        "cn": "adj.可选择的, 随意的"
+    },
+    {
+        "word": "order",
+        "cn": "n.次序, 命令，订单；v.命令"
+    },
+    {
+        "word": "ordinary",
+        "cn": "adj.平常的, 普通的, 平凡的"
+    },
+    {
+        "word": "oriental ",
+        "cn": "adj.亚洲的, 东方的"
+    },
+    {
+        "word": "original ",
+        "cn": "adj.最初的, 原始的, 独创的"
+    },
+    {
+        "word": "originate",
+        "cn": "v.引起, 发起，起源"
+    },
+    {
+        "word": "ornament",
+        "cn": "n.装饰物；v.装饰, 修饰"
+    },
+    {
+        "word": "outbreak",
+        "cn": "n.爆发, 发作"
+    },
+    {
+        "word": "outstanding",
+        "cn": "adj.突出的, 显著的"
+    },
+    {
+        "word": "overflow",
+        "cn": "v.泛滥, 溢出"
+    },
+    {
+        "word": "overhear",
+        "cn": "v.无意中听到, 偷听"
+    },
+    {
+        "word": "overlap",
+        "cn": "   v.交叠"
+    },
+    {
+        "word": "overlook",
+        "cn": "v.俯瞰, 耸出, 远眺,"
+    },
+    {
+        "word": "overt",
+        "cn": "adj.明显的, 公然的"
+    },
+    {
+        "word": "overthrow",
+        "cn": "n.& v.打倒, 推翻, 颠覆"
+    },
+    {
+        "word": "overwhelm",
+        "cn": "v.淹没, 覆没, 压倒"
+    },
+    {
+        "word": "pace",
+        "cn": "n.(一)步, 步调"
+    },
+    {
+        "word": "panic",
+        "cn": "n.惊慌, 恐慌"
+    },
+    {
+        "word": "paradox",
+        "cn": "n.似非而是的论点, 自相矛盾的话"
+    },
+    {
+        "word": "paralyze",
+        "cn": "v.使瘫痪, 使麻痹"
+    },
+    {
+        "word": "partial",
+        "cn": "adj.部分的, 局部的, 偏袒的"
+    },
+    {
+        "word": "participant",
+        "cn": "n.参与者, 共享者"
+    },
+    {
+        "word": "particularly",
+        "cn": "adv.独特地, 显著地"
+    },
+    {
+        "word": "patent",
+        "cn": "n.专利权, 执照, 专利品"
+    },
+    {
+        "word": "pathetic",
+        "cn": "adj.可怜的, 悲惨的"
+    },
+    {
+        "word": "patriotic",
+        "cn": "adj.爱国的, 有爱国心的"
+    },
+    {
+        "word": "peculiarly",
+        "cn": "adv.特有地, 特别地"
+    },
+    {
+        "word": "peer",
+        "cn": "n.同等的人；v.凝视, 窥视"
+    },
+    {
+        "word": "penalty ",
+        "cn": "n.处罚, 罚款"
+    },
+    {
+        "word": "pension ",
+        "cn": "n.养老金, 退休金"
+    },
+    {
+        "word": "perception",
+        "cn": "n.理解,感知,感觉"
+    },
+    {
+        "word": "perform",
+        "cn": "v.履行, 执行, 表演"
+    },
+    {
+        "word": "periodic",
+        "cn": "adj.周期的, 定期的"
+    },
+    {
+        "word": "perish",
+        "cn": "v.死亡, 腐烂, 枯萎"
+    },
+    {
+        "word": "permeate",
+        "cn": "v.弥漫, 渗透, 透入"
+    },
+    {
+        "word": "permit",
+        "cn": "n.执照；v.许可, 允许"
+    },
+    {
+        "word": "perpetual",
+        "cn": "adj.永久的"
+    },
+    {
+        "word": "persistent",
+        "cn": "adj.持久稳固的"
+    },
+    {
+        "word": "perspective",
+        "cn": "n.透视, 远景, 观点"
+    },
+    {
+        "word": "pile",
+        "cn": "n.堆；v.堆积, 堆叠"
+    },
+    {
+        "word": "pitch",
+        "cn": "n. 沥青"
+    },
+    {
+        "word": "plague",
+        "cn": "n.瘟疫, 麻烦, 苦恼"
+    },
+    {
+        "word": "plausible",
+        "cn": "adj.似是而非的"
+    },
+    {
+        "word": "plea",
+        "cn": "n.恳求, 请求, 辩解"
+    },
+    {
+        "word": "plead",
+        "cn": "v.辩护, 恳求，借口"
+    },
+    {
+        "word": "pledge",
+        "cn": "n. 誓言 v. 发誓"
+    },
+    {
+        "word": "plunge",
+        "cn": "v.投入, 陷入"
+    },
+    {
+        "word": "point",
+        "cn": "n.点, 分数；v.指向, 指出"
+    },
+    {
+        "word": "pollute",
+        "cn": "v.弄脏, 污染"
+    },
+    {
+        "word": "ponder",
+        "cn": "v.沉思, 考虑"
+    },
+    {
+        "word": "portray",
+        "cn": "v.描绘"
+    },
+    {
+        "word": "pose",
+        "cn": "v.造成，引起"
+    },
+    {
+        "word": "possession",
+        "cn": "n.拥有, 占有物, 所有"
+    },
+    {
+        "word": "possibility",
+        "cn": "n.可能性, 可能发生的事物"
+    },
+    {
+        "word": "potential",
+        "cn": "n.潜能；adj.潜在的"
+    },
+    {
+        "word": "pour",
+        "cn": "v.灌注, 倾泻, 涌入"
+    },
+    {
+        "word": "poverty",
+        "cn": "n.贫穷, 贫困, 贫乏"
+    },
+    {
+        "word": "practicable",
+        "cn": "adj.能实行的, 行得通的, 可以实行的"
+    },
+    {
+        "word": "preach",
+        "cn": "v.鼓吹"
+    },
+    {
+        "word": "precede",
+        "cn": "v.领先, 在...之前, 先于"
+    },
+    {
+        "word": "precipitate",
+        "cn": "n.沉淀物；v.猛地落下；adj.突如其来的"
+    },
+    {
+        "word": "preclude",
+        "cn": "n.排除"
+    },
+    {
+        "word": "predominant",
+        "cn": "adj.支配的, 主要的, 突出的"
+    },
+    {
+        "word": "preferable",
+        "cn": "adj.更可取的, 更好的, 更优越的"
+    },
+    {
+        "word": "preliminary",
+        "cn": "adj.初步的"
+    },
+    {
+        "word": "premise",
+        "cn": "n.前提, 假定，房产"
+    },
+    {
+        "word": "prepare",
+        "cn": "v.准备, 预备"
+    },
+    {
+        "word": "prescription",
+        "cn": "n.指示, 规定, 处方, 药方"
+    },
+    {
+        "word": "present",
+        "cn": "n.礼物, 现在；v.介绍, 赠送, 提出"
+    },
+    {
+        "word": "presentation",
+        "cn": "n.介绍, 陈述, 赠送, 表达"
+    },
+    {
+        "word": "prestige",
+        "cn": "n.声望, 威望, 威信"
+    },
+    {
+        "word": "presumably",
+        "cn": "adv.推测起来, 大概"
+    },
+    {
+        "word": "presume",
+        "cn": "v.假定, 假设, 认为"
+    },
+    {
+        "word": "prevalent",
+        "cn": "adj.普遍的, 流行的"
+    },
+    {
+        "word": "previous",
+        "cn": "adj.早先的，在前的"
+    },
+    {
+        "word": "priority ",
+        "cn": "n.优先, 优先权"
+    },
+    {
+        "word": "privacy ",
+        "cn": "n.隐私, 秘密"
+    },
+    {
+        "word": "private ",
+        "cn": "adj.私人的, 私有的, 私营的"
+    },
+    {
+        "word": "probability",
+        "cn": "n.可能性, 或然性, 概率"
+    },
+    {
+        "word": "probe",
+        "cn": "n.探针；v.以探针探查"
+    },
+    {
+        "word": "proclaim",
+        "cn": "v.宣布, 声明, 显示"
+    },
+    {
+        "word": "profitable",
+        "cn": "adj.有利可图的"
+    },
+    {
+        "word": "profound",
+        "cn": "adj.深刻的, 意义深远的, 渊博的"
+    },
+    {
+        "word": "progress",
+        "cn": "n.前进, 进步, 发展"
+    },
+    {
+        "word": "prohibit",
+        "cn": "v.禁止, 阻止"
+    },
+    {
+        "word": "prolong ",
+        "cn": "v.延长, 拖延"
+    },
+    {
+        "word": "prominent",
+        "cn": "adj.卓越的，著名的，杰出的"
+    },
+    {
+        "word": "promising",
+        "cn": "adj.有希望的, 有前途的"
+    },
+    {
+        "word": "promote",
+        "cn": "v.促进, 发扬, 提拔"
+    },
+    {
+        "word": "prone",
+        "cn": "adj.倾向于"
+    },
+    {
+        "word": "propel",
+        "cn": "v.推进, 驱使"
+    },
+    {
+        "word": "properly",
+        "cn": "adv.适当地, 完全地"
+    },
+    {
+        "word": "property",
+        "cn": "n.财产, 所有权, 特性"
+    },
+    {
+        "word": "propose",
+        "cn": "v.计划, 建议, 求婚"
+    },
+    {
+        "word": "proposition",
+        "cn": "n.主张, 建议, 陈述, 命题"
+    },
+    {
+        "word": "prospective",
+        "cn": "adj.预期的"
+    },
+    {
+        "word": "provision",
+        "cn": "n.供应, 供应品, 预备"
+    },
+    {
+        "word": "provoke",
+        "cn": "v.激怒, 挑拨, 煽动"
+    },
+    {
+        "word": "publish",
+        "cn": "v.出版, 公布, 发表"
+    },
+    {
+        "word": "purchase",
+        "cn": "n.& v.买, 购买"
+    },
+    {
+        "word": "purify",
+        "cn": "v.纯净, 净化"
+    },
+    {
+        "word": "purpose",
+        "cn": "n.目的, 意图, 效果"
+    },
+    {
+        "word": "pursuit",
+        "cn": "n.追击"
+    },
+    {
+        "word": "puzzle",
+        "cn": "n.难题, 谜；v.迷惑"
+    },
+    {
+        "word": "qualification",
+        "cn": "n.资格, 条件, 限制"
+    },
+    {
+        "word": "quantity",
+        "cn": "n.量, 数量"
+    },
+    {
+        "word": "queer",
+        "cn": "adj.奇怪的, 可疑的"
+    },
+    {
+        "word": "question",
+        "cn": "n.问题, 疑问；v.询问, 怀疑"
+    },
+    {
+        "word": "quite",
+        "cn": "adv.相当, 完全, 十分"
+    },
+    {
+        "word": "quiver",
+        "cn": "n.& v.震动, 颤抖"
+    },
+    {
+        "word": "quote",
+        "cn": "v.引用, 提出, 报价"
+    },
+    {
+        "word": "rack",
+        "cn": "n.行李架, 搁物架"
+    },
+    {
+        "word": "radiant",
+        "cn": "adj.发光的, 辐射的"
+    },
+    {
+        "word": "radical",
+        "cn": "adj.根本的, 基本的, 激进的"
+    },
+    {
+        "word": "rage",
+        "cn": "n.愤怒, 情绪激动"
+    },
+    {
+        "word": "raise",
+        "cn": "v.举起，引起，提高，抚养"
+    },
+    {
+        "word": "range",
+        "cn": "n.山脉, 范围"
+    },
+    {
+        "word": "rank",
+        "cn": "n.等级, 横列, 阶级"
+    },
+    {
+        "word": "rate",
+        "cn": "n.比率, 速度, 等级"
+    },
+    {
+        "word": "reaction",
+        "cn": "n.反应, 反作用, 反动(力)"
+    },
+    {
+        "word": "ready",
+        "cn": "adj.有准备的, 准备完毕的, 现成的"
+    },
+    {
+        "word": "reality",
+        "cn": "n.真实, 事实, 本体"
+    },
+    {
+        "word": "realize",
+        "cn": "v.认识到, 了解, 实现"
+    },
+    {
+        "word": "receive",
+        "cn": "v.收到, 接到"
+    },
+    {
+        "word": "recession",
+        "cn": "n.撤回, 退回, 不景气"
+    },
+    {
+        "word": "reckless",
+        "cn": "adj.不计后果的"
+    },
+    {
+        "word": "reckon",
+        "cn": "v.计算, 总计, 估计"
+    },
+    {
+        "word": "recommend",
+        "cn": "v.推荐, 介绍, 劝告"
+    },
+    {
+        "word": "reconcile",
+        "cn": "v.和解, 和谐, 顺从"
+    },
+    {
+        "word": "recreation",
+        "cn": "n.消遣, 娱乐"
+    },
+    {
+        "word": "rectify",
+        "cn": "v.矫正, 调整"
+    },
+    {
+        "word": "reduce",
+        "cn": "v.减少, 缩小, 简化"
+    },
+    {
+        "word": "redundant",
+        "cn": "adj.多余的"
+    },
+    {
+        "word": "refrain",
+        "cn": "v.节制, 避免, 制止"
+    },
+    {
+        "word": "refute",
+        "cn": "v.驳倒, 反驳"
+    },
+    {
+        "word": "regard",
+        "cn": "v.看待, 重视, 尊敬"
+    },
+    {
+        "word": "regardless",
+        "cn": "adj.不管, 不顾, 不注意"
+    },
+    {
+        "word": "register",
+        "cn": "v.登记，注册"
+    },
+    {
+        "word": "regular",
+        "cn": "adj.规则的, 有秩序的, 经常的"
+    },
+    {
+        "word": "regulate",
+        "cn": "v.管制, 调节, 校准"
+    },
+    {
+        "word": "reinforce",
+        "cn": "v.加强, 增援"
+    },
+    {
+        "word": "rejoice",
+        "cn": "v.欣喜, 高兴, 喜悦"
+    },
+    {
+        "word": "relate",
+        "cn": "v.叙述, 联系"
+    },
+    {
+        "word": "relation",
+        "cn": "n.关系, 联系, 叙述"
+    },
+    {
+        "word": "relatively",
+        "cn": "adv.相关地"
+    },
+    {
+        "word": "release",
+        "cn": "v.释放, 放弃，发表"
+    },
+    {
+        "word": "reliance",
+        "cn": "n.信任, 信心, 信赖"
+    },
+    {
+        "word": "relieve",
+        "cn": "vt.减轻, 解除, 援救"
+    },
+    {
+        "word": "remarkable",
+        "cn": "adj.不平常的, 值得注意的, 显著的"
+    },
+    {
+        "word": "remedy",
+        "cn": "n.药物, 赔偿；v.治疗, 补救"
+    },
+    {
+        "word": "remove",
+        "cn": "v.移动, 开除, 迁移"
+    },
+    {
+        "word": "repel",
+        "cn": "v.击退, 抵制"
+    },
+    {
+        "word": "replace",
+        "cn": "v.取代, 替换, 代替"
+    },
+    {
+        "word": "representation",
+        "cn": "n.表现, 陈述, 代表"
+    },
+    {
+        "word": "reputation",
+        "cn": "n.名声, 名望"
+    },
+    {
+        "word": "request",
+        "cn": "n.& v.请求, 要求"
+    },
+    {
+        "word": "require",
+        "cn": "v.需要, 要求, 命令"
+    },
+    {
+        "word": "resemblance",
+        "cn": "n.类同之处"
+    },
+    {
+        "word": "resent",
+        "cn": "v.愤恨"
+    },
+    {
+        "word": "reservation",
+        "cn": "n.保留, 预定, 预约"
+    },
+    {
+        "word": "reserve",
+        "cn": "v.储备, 保存, 保留"
+    },
+    {
+        "word": "reside",
+        "cn": "v.居住"
+    },
+    {
+        "word": "resident",
+        "cn": "n.居民；adj.居住的, 常驻的"
+    },
+    {
+        "word": "resist",
+        "cn": "v.抵抗, 反抗"
+    },
+    {
+        "word": "resistant",
+        "cn": "adj.抵抗的, 有抵抗力的"
+    },
+    {
+        "word": "response",
+        "cn": "n.回答, 响应, 反应"
+    },
+    {
+        "word": "responsible",
+        "cn": "adj.有责任的, 可靠的, 可依赖的"
+    },
+    {
+        "word": "restore",
+        "cn": "v.恢复"
+    },
+    {
+        "word": "result",
+        "cn": "n.结果；v.由于，导致"
+    },
+    {
+        "word": "retain",
+        "cn": "v.保持, 保留"
+    },
+    {
+        "word": "retort",
+        "cn": "v.反驳, 反击, 回报"
+    },
+    {
+        "word": "reveal",
+        "cn": "v.展现, 揭示, 暴露"
+    },
+    {
+        "word": "revenge",
+        "cn": "n.& v.报仇, 复仇"
+    },
+    {
+        "word": "reverse",
+        "cn": "n.背面；v.颠倒, 倒转"
+    },
+    {
+        "word": "revise",
+        "cn": "v.修订, 校订, 修正"
+    },
+    {
+        "word": "revive",
+        "cn": "v.苏醒, 复兴, 复活"
+    },
+    {
+        "word": "rewrite",
+        "cn": "v.重写, 改写"
+    },
+    {
+        "word": "ribbon",
+        "cn": "n. 丝带, 带子"
+    },
+    {
+        "word": "rigid",
+        "cn": "adj.刚硬的, 刚性的, 严格的"
+    },
+    {
+        "word": "rigorous",
+        "cn": "adj.严格的, 严厉的, 严酷的"
+    },
+    {
+        "word": "riot",
+        "cn": "n.& v.暴乱, 骚动"
+    },
+    {
+        "word": "rival",
+        "cn": "n.竞争对手 v.与…匹敌"
+    },
+    {
+        "word": "rob",
+        "cn": "v.抢夺, 抢掠, 剥夺"
+    },
+    {
+        "word": "roughly",
+        "cn": "adv.概略地, 粗糙地"
+    },
+    {
+        "word": "rude",
+        "cn": "adj.粗鲁的, 无礼的"
+    },
+    {
+        "word": "rush",
+        "cn": "n.& v. 匆促, 冲进"
+    },
+    {
+        "word": "savage",
+        "cn": "n.野蛮人；adj.野蛮的, 未开化的, 残忍的"
+    },
+    {
+        "word": "scale",
+        "cn": "n.刻度, 衡量,天平"
+    },
+    {
+        "word": "scarce",
+        "cn": "adj.缺乏的, 不足的, 稀有的"
+    },
+    {
+        "word": "scared",
+        "cn": "adj.恐惧的"
+    },
+    {
+        "word": "scene",
+        "cn": "n.现场, 情景, 景色"
+    },
+    {
+        "word": "sceptical",
+        "cn": "adj. 怀疑的"
+    },
+    {
+        "word": "scold",
+        "cn": "v.责骂, 申斥, 斥责"
+    },
+    {
+        "word": "scope",
+        "cn": "n.范围, 机会"
+    },
+    {
+        "word": "scorn",
+        "cn": "n.& v.轻蔑, 不屑"
+    },
+    {
+        "word": "scratch",
+        "cn": "n.& v. 搔, 抓"
+    },
+    {
+        "word": "script",
+        "cn": "n.手稿, 手迹, 剧本"
+    },
+    {
+        "word": "secure",
+        "cn": "adj.安全的, 可靠的"
+    },
+    {
+        "word": "seek",
+        "cn": "v.寻找, 探索, 寻求"
+    },
+    {
+        "word": "segment",
+        "cn": "n.段, 节, 片断"
+    },
+    {
+        "word": "seize",
+        "cn": "v.抓住, 逮住, 夺取"
+    },
+    {
+        "word": "sensation",
+        "cn": "n.感觉, 感情, 感动"
+    },
+    {
+        "word": "sentence",
+        "cn": "n.句子, 判决；v.判决"
+    },
+    {
+        "word": "sentiment",
+        "cn": "n.情操, 情绪, 多愁善感"
+    },
+    {
+        "word": "separate",
+        "cn": "v.分开, 隔离, 分散"
+    },
+    {
+        "word": "seriously",
+        "cn": "adv.认真地, 真诚地"
+    },
+    {
+        "word": "settle",
+        "cn": "v.安放, 解决"
+    },
+    {
+        "word": "settlement",
+        "cn": "n. 解决, 殖民, 沉降"
+    },
+    {
+        "word": "settler",
+        "cn": "n.移民者,定居者"
+    },
+    {
+        "word": "severely",
+        "cn": "adv.严格地, 激烈地"
+    },
+    {
+        "word": "shame",
+        "cn": "n.羞耻, 羞愧"
+    },
+    {
+        "word": "share",
+        "cn": "n.份额, 股份；v.分享"
+    },
+    {
+        "word": "shatter",
+        "cn": "v. 散开, 粉碎, 破坏"
+    },
+    {
+        "word": "sheer",
+        "cn": "adj.全然的, 纯粹的, 峻峭的"
+    },
+    {
+        "word": "shrewd",
+        "cn": "adj.精明"
+    },
+    {
+        "word": "shrink",
+        "cn": "v.收缩, 缩短"
+    },
+    {
+        "word": "sight",
+        "cn": "n.视力, 视觉, 见"
+    },
+    {
+        "word": "signal",
+        "cn": "n.信号；v.发信号"
+    },
+    {
+        "word": "significance",
+        "cn": "n.意义, 重要性"
+    },
+    {
+        "word": "signify",
+        "cn": "v.表示, 意味"
+    },
+    {
+        "word": "simultaneous",
+        "cn": "adj.同时的, 同时发生的"
+    },
+    {
+        "word": "single",
+        "cn": "adj.单一的, 单身的"
+    },
+    {
+        "word": "skeptical",
+        "cn": "adj.怀疑性的,好怀疑的"
+    },
+    {
+        "word": "slack",
+        "cn": "v.松懈, 松弛；adj.松弛的, 疏忽的"
+    },
+    {
+        "word": "slap",
+        "cn": "n.& v.拍, 掌击"
+    },
+    {
+        "word": "slaughter",
+        "cn": "n.& v.屠宰, 残杀"
+    },
+    {
+        "word": "slight",
+        "cn": "adj.轻微的, 微小的"
+    },
+    {
+        "word": "smash",
+        "cn": "v.打碎, 粉碎"
+    },
+    {
+        "word": "smooth",
+        "cn": "adj.平滑的, 平静的"
+    },
+    {
+        "word": "snap",
+        "cn": "v.猛地吸住, 突然折断"
+    },
+    {
+        "word": "snatch",
+        "cn": "n.& v.攫取"
+    },
+    {
+        "word": "sole",
+        "cn": "adj.单独的, 唯一的"
+    },
+    {
+        "word": "solitary ",
+        "cn": "adj.孤独的"
+    },
+    {
+        "word": "solution",
+        "cn": "n.解答, 解决办法"
+    },
+    {
+        "word": "some",
+        "cn": "adj.一些, 有些；pron.一些, 有些"
+    },
+    {
+        "word": "sophisiticated",
+        "cn": "adj.熟练的，先进的"
+    },
+    {
+        "word": "spacious",
+        "cn": "adj.广大的, 大规模的"
+    },
+    {
+        "word": "span",
+        "cn": "n.跨度, 跨距, 范围"
+    },
+    {
+        "word": "spare",
+        "cn": "v.节约；adj.多余的"
+    },
+    {
+        "word": "sparkle",
+        "cn": "v.发火花, 闪耀"
+    },
+    {
+        "word": "speciality",
+        "cn": "n.特性, 特质, 专业"
+    },
+    {
+        "word": "specification",
+        "cn": "n.详述, 规格, 说明书"
+    },
+    {
+        "word": "spectator",
+        "cn": "n.观众，参观者"
+    },
+    {
+        "word": "speculate",
+        "cn": "v.推测, 思索"
+    },
+    {
+        "word": "splash",
+        "cn": "n.& v. 溅, 飞溅, 溅湿"
+    },
+    {
+        "word": "split",
+        "cn": "v.劈开, 分裂"
+    },
+    {
+        "word": "spoil",
+        "cn": "v.损坏, 宠坏, 溺爱"
+    },
+    {
+        "word": "spot",
+        "cn": "n.斑点, 污点, 现场"
+    },
+    {
+        "word": "stabilize",
+        "cn": "v.稳定"
+    },
+    {
+        "word": "stagger",
+        "cn": "v.摇晃, 蹒跚, 交错"
+    },
+    {
+        "word": "stain",
+        "cn": "n.污点, 瑕疵；v.染污, 沾污"
+    },
+    {
+        "word": "startle",
+        "cn": "v.震惊"
+    },
+    {
+        "word": "statistics",
+        "cn": "n.统计学, 统计表"
+    },
+    {
+        "word": "status",
+        "cn": "n.身份, 地位, 状况"
+    },
+    {
+        "word": "stem",
+        "cn": "v.源自（from）"
+    },
+    {
+        "word": "stick",
+        "cn": "n.棍, 棒, 手杖"
+    },
+    {
+        "word": "stimulate",
+        "cn": "v.刺激, 激励"
+    },
+    {
+        "word": "stimulus",
+        "cn": "n.刺激物,刺激"
+    },
+    {
+        "word": "sting",
+        "cn": "n.& v.刺, 刺痛"
+    },
+    {
+        "word": "store",
+        "cn": "vt.贮藏, 存储"
+    },
+    {
+        "word": "strategic",
+        "cn": "adj.战略的, 战略上的"
+    },
+    {
+        "word": "strength",
+        "cn": "n.力量, 力气"
+    },
+    {
+        "word": "stride",
+        "cn": "v.大步走"
+    },
+    {
+        "word": "strive",
+        "cn": "v.努力, 奋斗, 力争"
+    },
+    {
+        "word": "strong",
+        "cn": "adj.强壮的, 坚固的, 强大的"
+    },
+    {
+        "word": "stuff",
+        "cn": "n.原料；v.塞满, 填满"
+    },
+    {
+        "word": "stumble",
+        "cn": "v.绊倒, 蹒跚, 踌躇"
+    },
+    {
+        "word": "stun",
+        "cn": "v.使…震惊"
+    },
+    {
+        "word": "subjective",
+        "cn": "adj.主观的, 个人的"
+    },
+    {
+        "word": "subordinate",
+        "cn": "adj.次要的, 从属的, 下级的"
+    },
+    {
+        "word": "subscribe",
+        "cn": "v.捐款, 订阅, 签署"
+    },
+    {
+        "word": "subtle",
+        "cn": "adj.狡猾的, 敏感的, 微妙的"
+    },
+    {
+        "word": "summit",
+        "cn": "n.顶点, 最高阶层"
+    },
+    {
+        "word": "superiority",
+        "cn": "n.优越, 高傲"
+    },
+    {
+        "word": "supervise",
+        "cn": "v.监督, 管理, 指导"
+    },
+    {
+        "word": "supplementary",
+        "cn": "n. 增补物；adj.辅助的"
+    },
+    {
+        "word": "supply",
+        "cn": "n.& v.补给, 供给"
+    },
+    {
+        "word": "suppose",
+        "cn": "v.推想, 假设, 猜想"
+    },
+    {
+        "word": "suppress",
+        "cn": "v.镇压, 抑制"
+    },
+    {
+        "word": "supreme",
+        "cn": "adj.极度的, 极大的, 最高的"
+    },
+    {
+        "word": "surpass",
+        "cn": "v.超越, 胜过"
+    },
+    {
+        "word": "surplus",
+        "cn": "n.剩余, 过剩"
+    },
+    {
+        "word": "surprisingly",
+        "cn": "adv.令人惊讶地"
+    },
+    {
+        "word": "survive",
+        "cn": "v.幸免, 生还"
+    },
+    {
+        "word": "susceptible",
+        "cn": "adj.易受影响的, 易感动的"
+    },
+    {
+        "word": "suspicious",
+        "cn": "adj.可疑的, 怀疑的"
+    },
+    {
+        "word": "sustain",
+        "cn": "v.支撑, 维持, 持续"
+    },
+    {
+        "word": "swallow",
+        "cn": "n. 喉；v.咽, 淹没, 吞没"
+    },
+    {
+        "word": "symptom",
+        "cn": "n.症状, 征兆"
+    },
+    {
+        "word": "synthetical",
+        "cn": "adj.综合的, 合成的"
+    },
+    {
+        "word": "tackle",
+        "cn": "n. 用具；v. 应付, 处理, 解决"
+    },
+    {
+        "word": "tame",
+        "cn": "adj.驯服的，顺从的"
+    },
+    {
+        "word": "tear",
+        "cn": "n. 泪滴, 眼泪；v.撕破"
+    },
+    {
+        "word": "tedious",
+        "cn": "adj.单调乏味的, 沉闷的"
+    },
+    {
+        "word": "temper",
+        "cn": "n.韧度, 情绪, 心情"
+    },
+    {
+        "word": "temperament",
+        "cn": "n.气质, 性情, 急躁"
+    },
+    {
+        "word": "tend",
+        "cn": "v.趋向, 照管, 护理"
+    },
+    {
+        "word": "tender",
+        "cn": "adj.嫩的, 温柔的, 软弱的"
+    },
+    {
+        "word": "tense",
+        "cn": "adj.紧张的, 拉紧的"
+    },
+    {
+        "word": "terminate",
+        "cn": "v.停止, 结束, 终止"
+    },
+    {
+        "word": "terrify",
+        "cn": "v.恐怖, 恐吓"
+    },
+    {
+        "word": "testify",
+        "cn": "v.证明, 证实, 作证"
+    },
+    {
+        "word": "testimony",
+        "cn": "n.证词, 宣言, 陈述"
+    },
+    {
+        "word": "theft",
+        "cn": "n.偷, 行窃"
+    },
+    {
+        "word": "theme",
+        "cn": "n.题目, 主题"
+    },
+    {
+        "word": "thesis",
+        "cn": "n.论题, 论文"
+    },
+    {
+        "word": "thrill",
+        "cn": "v.发抖"
+    },
+    {
+        "word": "tidy",
+        "cn": "adj.整齐的, 整洁的"
+    },
+    {
+        "word": "tie",
+        "cn": "n.领带, 练习；v.系"
+    },
+    {
+        "word": "tight",
+        "cn": "adj.紧的, 紧身的"
+    },
+    {
+        "word": "timid",
+        "cn": "adj.胆小的, 羞怯的"
+    },
+    {
+        "word": "tolerant",
+        "cn": "adj.容忍的, 宽恕的, 有耐药力的"
+    },
+    {
+        "word": "tolerate",
+        "cn": "v.忍受, 容忍"
+    },
+    {
+        "word": "toss",
+        "cn": "v.投, 掷"
+    },
+    {
+        "word": "tough",
+        "cn": "adj.坚韧的, 强壮的"
+    },
+    {
+        "word": "trace",
+        "cn": "n.痕迹, 踪迹；v. 追踪, 回溯"
+    },
+    {
+        "word": "track",
+        "cn": "n.轨迹, 足迹, 途径"
+    },
+    {
+        "word": "tradition",
+        "cn": "n.传统, 惯例"
+    },
+    {
+        "word": "tragedy",
+        "cn": "n.悲剧, 悲惨, 灾难"
+    },
+    {
+        "word": "tragic",
+        "cn": "adj.悲惨的, 悲剧的"
+    },
+    {
+        "word": "transaction",
+        "cn": "n.办理, 交易, 事务"
+    },
+    {
+        "word": "transfer",
+        "cn": "n.&v. 运输"
+    },
+    {
+        "word": "transform",
+        "cn": "v.转换, 改变"
+    },
+    {
+        "word": "transition",
+        "cn": "n.转变, 转换, 过渡"
+    },
+    {
+        "word": "translate",
+        "cn": "vt.翻译, 解释"
+    },
+    {
+        "word": "transmission",
+        "cn": "n.播送, 发射, 传输"
+    },
+    {
+        "word": "transmit",
+        "cn": "v.传输, 转送, 传达"
+    },
+    {
+        "word": "transplant",
+        "cn": "v.移植, 移种"
+    },
+    {
+        "word": "transport",
+        "cn": "v.传送, 运输, 流放"
+    },
+    {
+        "word": "treat",
+        "cn": "v.对待, 款待"
+    },
+    {
+        "word": "tremendous",
+        "cn": "adj.极大的, 巨大的"
+    },
+    {
+        "word": "trifle",
+        "cn": "n.琐事, 少量, 小事"
+    },
+    {
+        "word": "triple",
+        "cn": "adj.三倍的"
+    },
+    {
+        "word": "trivial",
+        "cn": "adj.琐细的, 价值不高的, 微不足道的"
+    },
+    {
+        "word": "trouble",
+        "cn": "n.烦恼, 麻烦；v. 打扰"
+    },
+    {
+        "word": "tumble",
+        "cn": "v.翻倒, 摔倒, 滚动"
+    },
+    {
+        "word": "turbulent",
+        "cn": "adj.狂暴的, 吵闹的"
+    },
+    {
+        "word": "unanimous",
+        "cn": "adj.意见一致的, 无异议的"
+    },
+    {
+        "word": "unceasing",
+        "cn": "adj.不断的, 不停的"
+    },
+    {
+        "word": "underestimate",
+        "cn": "v.低估, 看轻"
+    },
+    {
+        "word": "undergo",
+        "cn": "v.经历, 遭受, 忍受"
+    },
+    {
+        "word": "uniform",
+        "cn": "n.制服；adj.统一的, 相同的"
+    },
+    {
+        "word": "unnatural",
+        "cn": "adj.不自然的"
+    },
+    {
+        "word": "unreal",
+        "cn": "adj.不真实的, 虚幻的"
+    },
+    {
+        "word": "update",
+        "cn": "v.现代化, 更新"
+    },
+    {
+        "word": "urgent",
+        "cn": "adj.急迫的, 紧急的"
+    },
+    {
+        "word": "vacant",
+        "cn": "adj. 空白的, 空闲的, 空缺的"
+    },
+    {
+        "word": "vacuum",
+        "cn": "adj.空的,未被占有的"
+    },
+    {
+        "word": "validity",
+        "cn": "n.有效性, 合法性, 正确性"
+    },
+    {
+        "word": "vary",
+        "cn": "v.改变, 变更"
+    },
+    {
+        "word": "verdict",
+        "cn": "n.裁决, 判决, 判断"
+    },
+    {
+        "word": "versatile",
+        "cn": "adj.通用的, 多才多艺的"
+    },
+    {
+        "word": "vicinity",
+        "cn": "n.邻近, 附近, 接近"
+    },
+    {
+        "word": "vicious",
+        "cn": "adj.不道德的, 恶意的"
+    },
+    {
+        "word": "view",
+        "cn": "n.景色, 风景, 观点"
+    },
+    {
+        "word": "vigorous",
+        "cn": "adj.精力旺盛的, 有力的, 健壮的"
+    },
+    {
+        "word": "violate",
+        "cn": "v.违犯, 冒犯, 妨碍"
+    },
+    {
+        "word": "violent",
+        "cn": "adj.猛烈的, 激烈的"
+    },
+    {
+        "word": "virtual",
+        "cn": "adj.实质的, 有效的, 事实上的"
+    },
+    {
+        "word": "virtue",
+        "cn": "n.德行, 美德, 贞操"
+    },
+    {
+        "word": "vision",
+        "cn": "n.视觉, 想象力, 幻想"
+    },
+    {
+        "word": "visualize",
+        "cn": "v.形象, 形象化, 想象"
+    },
+    {
+        "word": "void",
+        "cn": "adj.空的, 无效的"
+    },
+    {
+        "word": "vulgar",
+        "cn": "adj.粗俗的, 庸俗的"
+    },
+    {
+        "word": "vulnerable",
+        "cn": "adj.易受攻击的, 易受...的攻击"
+    },
+    {
+        "word": "warrant",
+        "cn": "n.授权, 正当理由，委任状"
+    },
+    {
+        "word": "weary",
+        "cn": "v.疲倦；adj.疲倦的, 厌倦的"
+    },
+    {
+        "word": "weave",
+        "cn": "v.编织, 组合, 编排"
+    },
+    {
+        "word": "whirl",
+        "cn": "n.& v.旋转, 回旋"
+    },
+    {
+        "word": "withdraw",
+        "cn": "v.收回, 撤销，撤退"
+    },
+    {
+        "word": "withhold",
+        "cn": "vt.停止, 拒绝给, 阻挡"
+    },
+    {
+        "word": "witness",
+        "cn": "n.证人, 证据；v.目击, 作证"
+    },
+    {
+        "word": "wonder",
+        "cn": "n.奇迹, 惊奇"
+    },
+    {
+        "word": "worship",
+        "cn": "v.崇拜, 敬神, 尊敬"
+    },
+    {
+        "word": "wrap",
+        "cn": "n.外套, 围巾, 包裹 v.包装, 覆盖, 裹"
+    },
+    {
+        "word": "wreck",
+        "cn": "n.失事, 残骸；v.破坏"
+    },
+    {
+        "word": "wretched",
+        "cn": "adj.可怜的,肮脏的"
+    },
+    {
+        "word": "wrinkle",
+        "cn": "n.皱纹；v.使皱"
+    },
+    {
+        "word": "yield",
+        "cn": "n.产量 v.出产, 屈服"
+    }
+]

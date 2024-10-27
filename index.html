@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fresh Flight Adventure</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css?v=1.0">
+</head>
+<body>
+    <div id="game-container">
+        <h1>VocaBird</h1>
+        <div id="game-wrapper">
+            <div id="word-list">
+                <h2>Collected Words</h2>
+                <ul id="collected-words"></ul>
+                <button id="copyAllWords">Copy All Words</button>
+            </div>
+            <div id="main-game">
+                <div id="info-panel">
+                    <div id="coinCount" class="pixel-text">COIN: 0</div>
+                    <div id="score" class="pixel-text">DISTANCE: 0 M</div>
+                    <div id="speedDisplay" class="pixel-text">Speed: 100</div>
+                    <div id="wordCount" class="pixel-text">WORDS: 0</div>
+                </div>
+                <div id="game-area">
+                    <canvas id="gameCanvas" width="800" height="600"></canvas>
+                    <button id="startButton">START GAME</button>
+                </div>
+                <div id="progress-bar-container">
+                    <div id="progress-bar"></div>
+                </div>
+            </div>
+            <div id="bird-shop">
+                <h2>Bird Shop</h2>
+                <ul id="bird-colors">
+                    <!-- 鸟的颜色选项将通过 JavaScript 动态添加 -->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script src="script.js?v=1.0"></script>
+</body>
+</html>

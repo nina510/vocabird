@@ -1,0 +1,368 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #e8f4f8;
+    color: #333;
+}
+
+#game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 48px;
+    color: #4a90e2;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+}
+
+.pixel-text {
+    font-size: 16px;
+    color: #333;
+    white-space: nowrap;
+}
+
+#info-panel {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 10px;
+}
+
+#info-panel > div {
+    flex: 1;
+    text-align: center;
+    padding: 0 10px;
+}
+
+#info-panel > div:not(:last-child) {
+    border-right: 2px solid #ccc;
+}
+
+#game-area {
+    position: relative;
+    width: 800px;
+    height: 600px;
+    background: linear-gradient(to bottom, #87CEEB, #E0F6FF);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#gameCanvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#startButton {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    font-size: 24px;
+    padding: 15px 30px;
+    cursor: pointer;
+    background-color: #4a90e2;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+#startButton:hover {
+    background-color: #3a7bd5;
+    transform: translate(-50%, -50%) scale(1.05);
+}
+
+#wordReview {
+    font-family: 'Roboto', sans-serif;
+    z-index: 1000;
+}
+
+#wordReview h2 {
+    font-size: 24px;
+    color: #4a90e2;
+    margin-bottom: 10px;
+}
+
+#wordReview p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#playAudioButton {
+    font-size: 24px;
+    padding: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    line-height: 1;
+}
+
+#playAudioButton:hover {
+    opacity: 0.7;
+}
+
+#continueButton {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#continueButton:hover {
+    background-color: #3a7bd5;
+}
+
+#progress-bar-container {
+    width: 800px;
+    height: 20px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+#progress-bar {
+    width: 0%;
+    height: 100%;
+    background-color: #FFD700;
+    transition: width 0.3s ease;
+}
+
+#congratsScreen {
+    font-family: 'Roboto', sans-serif;
+    z-index: 1000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#congratsScreen h2 {
+    font-size: 28px;
+    color: #4a90e2;
+    margin-bottom: 10px;
+}
+
+#congratsScreen p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#restartButton {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#restartButton:hover {
+    background-color: #3a7bd5;
+}
+
+.space-hint {
+    font-size: 0.5em;
+    color: #CCCCCC;
+    margin-top: 10px;
+}
+
+@keyframes confettiFall {
+    0% {
+        transform: translateY(-100vh) rotate(0deg);
+    }
+    100% {
+        transform: translateY(100vh) rotate(360deg);
+    }
+}
+
+.confetti {
+    position: fixed;
+    width: 10px;
+    height: 10px;
+    top: -10px;
+    animation: confettiFall 3s linear infinite;
+    z-index: 1001;
+}
+
+#game-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    gap: 20px;
+}
+
+#word-list, #bird-shop {
+    width: 260px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-top: 100px;
+    position: relative;
+    overflow: hidden;
+}
+
+#word-list h2, #bird-shop h2 {
+    font-size: 16px; /* 减小字体大小 */
+    margin-bottom: 5px; /* 减少底部边距 */
+    text-align: center;
+    color: #4a90e2;
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5px 0; /* 减少上下内边距 */
+    z-index: 1;
+}
+
+#bird-colors {
+    list-style-type: none;
+    padding: 0;
+    flex-grow: 1;
+    overflow-y: auto;
+    margin-top: 5px; /* 减少顶部边距 */
+}
+
+#bird-colors li {
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+
+#bird-colors li:hover {
+    background-color: #f0f0f0;
+}
+
+#bird-colors canvas {
+    display: block;
+    margin-right: 10px;
+    flex-shrink: 0;
+    width: 60px;
+    height: 40px;
+}
+
+#bird-colors .bird-name {
+    flex-grow: 1;
+    text-align: center;
+    margin: 0 10px;
+    font-size: 16px;
+}
+
+#bird-colors .bird-price {
+    flex-shrink: 0;
+    min-width: 70px;
+    text-align: right;
+    font-size: 14px;
+}
+
+#collected-words {
+    list-style-type: none;
+    padding: 0;
+    flex-grow: 1;
+    overflow-y: auto;
+    margin-top: 5px; /* 减少顶部边距 */
+}
+
+#collected-words li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    font-size: 14px;
+    word-wrap: break-word;
+}
+
+#collected-words .delete-word {
+    background-color: #e0e0e0; /* 浅灰色背景 */
+    color: #666666; /* 深灰色文字 */
+    border: none;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    font-size: 16px; /* 增大字体大小以适应减号 */
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    transition: background-color 0.3s ease;
+}
+
+#collected-words .delete-word:hover {
+    background-color: #cccccc; /* 鼠标悬停时稍微变深 */
+}
+
+#main-game {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#copyAllWords {
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+#copyAllWords:hover {
+    background-color: #3a7bd5;
+}
+
+/* 为滚动条添加样式 */
+#bird-colors::-webkit-scrollbar {
+    width: 5px;
+}
+
+#bird-colors::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+#bird-colors::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+}
+
+#bird-colors::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
